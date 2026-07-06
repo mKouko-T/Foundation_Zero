@@ -3,28 +3,26 @@
 ## Project
 Cornerstone
 
-## Mission
-Apply Foundation Zero to a real engineering and operational project without modifying Foundation Zero.
-
 ## Current Objective
-Produce the first production-quality deliverable for Cornerstone.
+Design the first operational intelligence architecture deliverable for the Cornerstone Sales process.
 
-## Success
-A real artifact exists that somebody could immediately use.
-Not an architectural discussion.
-Not a framework.
-Not a theory.
-A deliverable.
+## Deliverable Name
+[PENDING: Specify Deliverable Name here, e.g., Cornerstone_Sales_Operational_Intelligence_v1.md]
 
-## Relevant Context
-Load only:
-* `BOOTSTRAP.md`
-* `L01_Identity/`
-* `L02_Constitution/`
-* `L07_Operations/`
-* `PROJECT.md`
+## Deliverable Type
+[PENDING: Specify Type here, e.g., Executive KPI Dictionary, Lead Qualification Specification, etc.]
 
-Nothing else.
+## Primary Stakeholder
+[PENDING: Identify explicit consumer, e.g., COO, VP of Sales]
 
-## Unknowns
-Everything required to produce the deliverable. Nothing beyond today's scope.
+## Definition of Done
+A production-quality artifact exists that the Primary Stakeholder can immediately use in reality without requiring further theoretical discussion.
+
+## Blocking Unknowns
+*   What is the exact Deliverable Name and Type chosen for today's session?
+*   Who is the exact Primary Stakeholder?
+
+## Expected Repository Updates
+*   Creation of the Deliverable document in the appropriate location.
+*   Update `ACTIVE_SESSION.md`.
+*   Generate `SESSION_REPORT.md` upon close.

@@ -15,9 +15,10 @@
 *   **Orthogonality Audit:** PASS
 
 ## 📂 Active Layers
-*   [Operating Manual](OPERATING_MANUAL.md)
-*   [ChatGPT Bootstrap Payload](BOOTSTRAP_CHATGPT.md)
-*   [Runtime Capability Matrix](Runtime_Capability_Matrix.md)
+*   [Operational Commands](COMMANDS.md)
+*   [Cloud Runtime Interface](Runtime_Interfaces/Cloud_Runtime.md)
+*   [Local Runtime Interface](Runtime_Interfaces/Local_Runtime.md)
+*   [Cloud Bootstrap Payload](BOOTSTRAP_CLOUD.md)
 *   [Constitution](L02_Constitution/Laws.md)
 *   [Decision Register](L10_State/DECISIONS.md)
 *   [Assumptions Log](L10_State/ASSUMPTIONS.md)
