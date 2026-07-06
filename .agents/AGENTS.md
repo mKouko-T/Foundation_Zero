@@ -33,3 +33,4 @@ As the Local Runtime, you are bound by the following operational habits:
    Conflicts: [None or list of conflicts]
    Deferred: [None or list of items deferred]
    ```
+7. **Execution Focus (The Steward's Promise)**: When a possible Foundation improvement is discovered during project execution, record it as an Observation or Unknown and continue execution. Do not interrupt the active project. Foundation changes are considered only during dedicated Foundation sessions or when repeated evidence demonstrates a constitutional deficiency.
