@@ -13,12 +13,12 @@ It establishes behavioral definitions, not technical implementation.
 
 ### 2. BEGIN
 **Purpose:** Start the next sequential session inside an existing project.
-*   **Local Runtime:** Creates `SESSION_00X.md`, updates `ACTIVE_SESSION.md`, and prepares the Context Payload for the Cloud Runtime.
+*   **Local Runtime:** Creates `SESSION_00X.md`, updates `ACTIVE_SESSION.md`, and prepares the Context Payload for the Cloud Runtime (including the automatically generated **Repository Reality Snapshot** containing Git deltas).
 *   **Cloud Runtime:** Initializes the reasoning context strictly bounded by the provided payload.
 
 ### 3. RESUME
 **Purpose:** Continue an active session after a break or context wipe.
-*   **Local Runtime:** Reads the `ACTIVE_SESSION.md`, gathers outstanding work/deliverables, and rebuilds the Context Payload to seamlessly restore state.
+*   **Local Runtime:** Reads the `ACTIVE_SESSION.md`, gathers outstanding work/deliverables, and rebuilds the Context Payload (including the **Repository Reality Snapshot**).
 *   **Cloud Runtime:** Accepts the payload and continues reasoning without hallucinating prior turns.
 
 ### 4. CHECKPOINT
@@ -28,9 +28,12 @@ It establishes behavioral definitions, not technical implementation.
 
 ### 5. CLOSE
 **Purpose:** Finalize and export the current session.
-*   **Cloud Runtime:** Produces the final "Repository Export".
-*   **Local Runtime:** Implements the export, generates closing reports, updates logs, runs Git commits, and archives the session.
+*   **Cloud Runtime:** Produces the final "Repository Export" containing a unique **Export ID**.
+*   **Local Runtime:** Implements the export, generates closing reports, updates logs, runs Git commits, issues the structured **Export Acknowledgement**, and archives the session.
 
 ### 6. AUDIT
 **Purpose:** Independent repository or project health inspection.
 *   **Local / Cloud Runtime:** Scans for duplicate files, obsolete files, broken references, unused folders, Canon drift, and technical debt. Produces recommendations. No execution until approved.
+
+---
+**Invariant:** Commands execute work. They do not modify Foundation. Only repeated reality may justify Foundation evolution.

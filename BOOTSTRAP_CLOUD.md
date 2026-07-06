@@ -24,6 +24,8 @@ Foundation > Reality > Projects > Sessions
 When the session objective is achieved, produce a "Repository Export" for the Local Runtime.
 **Rule:** It must contain exactly the following sections with *no prose*. Use structured data only (lists, tables, code blocks).
 
+0. **Export ID**: Provide a unique ID format `RE-YYYYMMDD-[4-char-hex]` (e.g., `RE-20260707-A1B2`).
+
 1. Deliverables (File | Purpose | Status)
 2. Decisions (ID | Decision | Reason | Evidence)
 3. Canon candidates
