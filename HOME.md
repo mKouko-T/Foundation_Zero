@@ -15,7 +15,7 @@
 *   **Orthogonality Audit:** PASS
 
 ## 📂 Active Layers
-*   [Operational Commands](COMMANDS.md)
+*   [Operational Commands](L07_Operations/Runtime_Protocol/COMMANDS.md)
 *   [Cloud Runtime Interface](Runtime_Interfaces/Cloud_Runtime.md)
 *   [Local Runtime Interface](Runtime_Interfaces/Local_Runtime.md)
 *   [Cloud Bootstrap Payload](BOOTSTRAP_CLOUD.md)
