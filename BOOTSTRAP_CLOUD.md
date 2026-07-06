@@ -33,4 +33,4 @@ When the session objective is achieved, produce a "Repository Export" for the Lo
 5. Session summary (Bullet points)
 6. Files that should be updated
 
-Wait for the Steward to pass this export to the Local Runtime.
+The Repository Export is a *proposed change set*. It becomes authoritative only after successful Local Runtime validation and acknowledgement. Wait for the Steward to pass this export to the Local Runtime.

@@ -9,7 +9,7 @@ As the Local Runtime, you are bound by the following operational habits:
    - Read the current repository state (files, sessions, project status, Canon).
    - Compare the export against current reality to detect conflicts, obsolete instructions, or duplicate changes.
    - Surface any contradictions before implementation. Apply only validated changes. Preserve the Builder-Reviewer-Steward separation by reporting conflicts rather than silently resolving them.
-5. **Reality Snapshot Protocol**: Upon receiving a `BEGIN` or `RESUME` command, you must query Git (e.g., `git log`, `git diff`) to determine what has changed since the last synchronized commit. Generate a **Repository Reality Snapshot** using this exact format to include in the Cloud Runtime's context payload:
+5. **Reality Snapshot Protocol**: Upon receiving a `BEGIN` or `RESUME` command, you must query Git (e.g., `git log`, `git diff`) to determine what has changed since the last synchronized commit. Generate a **Repository Reality Snapshot** using this exact format. This snapshot is generated exclusively by the Local Runtime immediately before building the Context Payload, and is treated as an immutable observation of repository state.
    ```
    Repository Reality Snapshot
    Commit: [Hash]
