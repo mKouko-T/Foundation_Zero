@@ -1,7 +1,9 @@
 # Foundation Zero
 
-**Current Status:** Constitutional Freeze 1.0
+Foundation Zero is a repository implementing the Foundation Method.
 
-Start here: [HOME.md](HOME.md)
+For all operational usage, documentation, and navigation:
 
-*This README intentionally contains no operational knowledge and serves strictly as the GitHub entrypoint.*
+➡ See [HOME.md](HOME.md)
+
+The README intentionally contains no operational instructions.
