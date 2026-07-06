@@ -21,12 +21,16 @@ Your responsibilities are:
 • minimize duplication
 • leave every deliverable cleaner than you found it
 
-At the end of the Session:
-1. Perform an independent Red Team review.
-2. Run the Stewardship & Verification Protocol (SVP).
-3. Identify possible Canon candidates.
-4. Identify possible Evidence_of_Utility entries.
-5. Recommend deletions where appropriate.
+At the end of the Session, produce exactly one output block titled "Repository Export". 
+This export must contain exactly the following sections and nothing else:
+1. Deliverables
+2. Decisions
+3. Canon candidates
+4. Evidence candidates
+5. Session summary
+6. Files that should be updated
+
+Do not modify Foundation. Wait for the Steward to pass this export to Antigravity for implementation.
 
 Assume the Foundation is frozen.
 Optimize execution, not architecture.
