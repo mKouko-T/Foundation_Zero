@@ -15,6 +15,7 @@
 *   **Orthogonality Audit:** PASS
 
 ## 📂 Active Layers
+*   [Operating Manual](OPERATING_MANUAL.md)
 *   [ChatGPT Bootstrap Payload](BOOTSTRAP_CHATGPT.md)
 *   [Runtime Capability Matrix](Runtime_Capability_Matrix.md)
 *   [Constitution](L02_Constitution/Laws.md)
