@@ -15,8 +15,12 @@
 *   **Orthogonality Audit:** PASS
 
 ## 📂 Active Layers
-*   [Constitution](L02_Constitution/Laws.md)
+*   [ChatGPT Bootstrap Payload](BOOTSTRAP_CHATGPT.md)
 *   [Runtime Capability Matrix](Runtime_Capability_Matrix.md)
+*   [Constitution](L02_Constitution/Laws.md)
+*   [Decision Register](L10_State/DECISIONS.md)
+*   [Assumptions Log](L10_State/ASSUMPTIONS.md)
+*   [Reality Domain](Reality/)
 *   [Evidence of Utility](Evidence_of_Utility.md)
 
 ---

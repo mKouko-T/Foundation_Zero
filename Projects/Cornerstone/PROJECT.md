@@ -1,16 +1,24 @@
 # PROJECT 001
 
 ## Name
-Cornerstone Intelligence Platform
+Cornerstone Operational Intelligence
 
 ## Purpose
-Create a production-grade operational intelligence system that materially improves execution, decision quality, knowledge reuse, and organizational capability.
+Design, build, and continuously improve the operational intelligence capability of Cornerstone Developments so that the organization consistently executes better, makes faster and more reliable decisions, preserves institutional knowledge, and continuously improves through trusted data, well-governed processes, and reusable systems.
+
+## Reality Change
+At project completion, Cornerstone should measurably demonstrate:
+* Better execution
+* Better decisions
+* Less duplicated work
+* Higher sales effectiveness
+* Trusted KPIs
+* Reusable organizational knowledge
+* Reduced operational friction
+* Sustainable AI-assisted workflows
 
 ## Success Definition
-The project is successful when objective operational improvements can be demonstrated in real work rather than merely documented.
-Evidence includes measurable reductions in execution time, repeated work, decision reversals, and information loss.
-
-**Foundation Objective**: Not to prove Cornerstone works. To prove Foundation Zero helps Cornerstone work better.
+The project succeeds only when business performance measurably improves—not merely when software, dashboards, documentation, or automation have been created.
 
 ## Constraints
 * Constitutional Freeze 1.0 remains unchanged.
@@ -18,12 +26,3 @@ Evidence includes measurable reductions in execution time, repeated work, decisi
 * Canon additions require validation.
 * Operational shortcuts may not alter Foundation.
 * Every proposed Foundation change enters the Unknowns Register first.
-
-## Benchmark Metrics
-* Decision latency
-* Rework rate
-* Time to onboard new context
-* Number of reusable assets created
-* Canon entries earned
-* Foundation amendments requested
-* Foundation amendments actually required
