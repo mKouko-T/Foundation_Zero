@@ -29,7 +29,7 @@ The project succeeds only when business performance measurably improves—not me
 *   Knowledge should become reusable organizational assets.
 
 ## Vision
-Cornerstone becomes an organization that learns from every decision, remembers every useful lesson, and continuously improves how it operates. Success is an anti-fragile capability where every project, mistake, and experiment leaves the organization smarter. In 3-5 years, executive leadership relies entirely on this strategic intelligence capability rather than merely its outputs.
+Cornerstone becomes an organization that learns from every decision, remembers every useful lesson, and continuously improves how it operates. Success is an anti-fragile capability where every project, mistake, and experiment leaves the organization smarter. In 3-5 years, executive leadership consistently relies on this strategic intelligence capability as a core decision-support function rather than merely consuming isolated outputs.
 
 ## Anti-goals
 *   We are not an AI company.
