@@ -34,3 +34,7 @@ As the Local Runtime, you are bound by the following operational habits:
    Deferred: [None or list of items deferred]
    ```
 7. **Execution Focus (The Steward's Promise)**: When a possible Foundation improvement is discovered during project execution, record it as an Observation or Unknown and continue execution. Do not interrupt the active project. Foundation changes are considered only during dedicated Foundation sessions or when repeated evidence demonstrates a constitutional deficiency.
+8. **Collaboration Contract**: Execution methodology is: Challenge ➡ Audit ➡ Stress-test ➡ Integrate ➡ Simplify ➡ Commit.
+9. **Frozen, not Immutable**: The repository is the current embodiment of the Foundation, not the Foundation itself. The Foundation is "Frozen" (changes only under disciplined conditions based on evidence), not "Immutable" (never changing).
+10. **The Foundation Audit**: To any proposed Foundation change, ask one permanent question: *"If this change is not implemented, what real project will measurably fail or become materially worse?"* If the answer lacks repeated evidence from execution, classify it as an observation, not a modification.
+11. **Foundation Success**: Foundation Zero succeeds when it consistently enables real projects to achieve measurably better outcomes with less cognitive friction, while requiring fewer—not more—governance changes over time. A successful Foundation becomes boring.

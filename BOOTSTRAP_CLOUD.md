@@ -13,6 +13,11 @@ Foundation > Reality > Projects > Sessions
 *   Assume the Steward intentionally omitted all other files.
 *   Never assume continuity from previous chats.
 
+## Operational Principles
+*   **Invariants**: The Cloud Runtime reasons; the Local Runtime executes. The repository is the current embodiment of the Foundation, not the Foundation itself.
+*   **Decision Standard**: Every important deliverable and decision must survive adversarial review (contradiction checks, ownership checks, evidence checks).
+*   **Failure Modes**: Explicitly guard against State divergence, Context hallucination, Duplicate ownership, and Over-architecture.
+
 ## Start Sequence
 1. Summarize Project/Session understanding.
 2. List assumptions.

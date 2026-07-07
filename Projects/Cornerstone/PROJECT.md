@@ -20,6 +20,26 @@ At project completion, Cornerstone should measurably demonstrate:
 ## Success Definition
 The project succeeds only when business performance measurably improves—not merely when software, dashboards, documentation, or automation have been created.
 
+## Strategic Context
+*   The deliverable is better execution, not software. Business outcomes always outrank technical outputs.
+*   Operational Intelligence is a horizontal capability serving the whole ecosystem, not a single department.
+*   **Generation ≠ Ownership**. The system that generates an insight is not the owner of the reality it observes.
+*   Value precedes formal authority; titles follow demonstrated impact.
+*   AI is an amplifier of human judgment, never the objective itself.
+*   Knowledge should become reusable organizational assets.
+
+## Vision
+Cornerstone becomes an organization that learns from every decision, remembers every useful lesson, and continuously improves how it operates. Success is an anti-fragile capability where every project, mistake, and experiment leaves the organization smarter. In 3-5 years, executive leadership relies entirely on this strategic intelligence capability rather than merely its outputs.
+
+## Anti-goals
+*   We are not an AI company.
+*   We are not a dashboard factory.
+*   We are not an Odoo customization project.
+*   We are not building documentation for documentation's sake.
+
+## Operating Principle
+Observe ➡ Understand ➡ Measure ➡ Improve ➡ Standardize ➡ Automate ➡ Institutionalize
+
 ## Constraints
 * Constitutional Freeze 1.0 remains unchanged.
 * No constitutional amendments during execution.
