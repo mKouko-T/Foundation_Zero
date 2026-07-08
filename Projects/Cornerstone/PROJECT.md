@@ -38,7 +38,7 @@ Cornerstone becomes an organization that learns from every decision, remembers e
 *   We are not building documentation for documentation's sake.
 
 ## Operating Principle
-Observe ➡ Understand ➡ Measure ➡ Improve ➡ Standardize ➡ Automate ➡ Institutionalize
+Observe ➡ Validate ➡ Measure ➡ Understand ➡ Decide ➡ Intervene ➡ Measure Again ➡ Standardize ➡ Institutionalize ➡ Repeat
 
 ## Constraints
 * Constitutional Freeze 1.0 remains unchanged.

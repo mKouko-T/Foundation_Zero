@@ -4,25 +4,40 @@
 Cornerstone
 
 ## Current Objective
-Design the first operational intelligence architecture deliverable for the Cornerstone Sales process.
+Identify, validate, and deliver the highest-value operational intelligence intervention for the Cornerstone Sales process.
 
-## Deliverable Name
-[PENDING: Specify Deliverable Name here, e.g., Cornerstone_Sales_Operational_Intelligence_v1.md]
+## Target Intervention
+Sales Execution Visibility & Intervention Prioritization
+(Continuously identify the highest-impact execution bottlenecks in the sales operation and recommend the next management action.)
 
-## Deliverable Type
-[PENDING: Specify Type here, e.g., Executive KPI Dictionary, Lead Qualification Specification, etc.]
+## Deliverable Name & Type
+**Name:** Cornerstone_Sales_Operational_Intelligence_Brief_v1.md
+**Type:** Executive Operational Intelligence Brief
 
 ## Primary Stakeholder
-[PENDING: Identify explicit consumer, e.g., COO, VP of Sales]
+COO
+
+## Evidence of Utility
+* Demonstrated executive decisions made because of the Brief.
+* Implemented operational interventions (at least one recommended action taken).
+* Measurable bottleneck improvement.
+* Faster operational decision speed.
+* Repeated executive adoption of the Brief format without prompting.
 
 ## Definition of Done
-A production-quality artifact exists that the Primary Stakeholder can immediately use in reality without requiring further theoretical discussion.
+A production-quality artifact exists that the Primary Stakeholder can immediately use in reality to improve business execution, and objective criteria for its success have been defined.
 
-## Blocking Unknowns
-*   What is the exact Deliverable Name and Type chosen for today's session?
-*   Who is the exact Primary Stakeholder?
+## Unknowns Register
+**Active Unknowns:** None
+**Resolved Unknowns:**
+* Target Intervention (Resolved: Sales Execution Visibility)
+* Deliverable Type (Resolved: Executive Brief)
+* Primary Stakeholder (Resolved: COO)
+* Evidence of Utility (Resolved: Measurable action metrics)
+**Deferred Unknowns:** None
+**Invalidated Unknowns:** None
 
 ## Expected Repository Updates
-*   Creation of the Deliverable document in the appropriate location.
-*   Update `ACTIVE_SESSION.md`.
-*   Generate `SESSION_REPORT.md` upon close.
+* Creation of the Deliverable document in the appropriate location.
+* Update `ACTIVE_SESSION.md`.
+* Generate `SESSION_REPORT.md` upon close.
