@@ -10,7 +10,7 @@ This file acts as the repository bootloader. Upon initialization, the runtime mu
 **Step 3:** Determine current project.
 **Step 4:** Determine current phase.
 **Step 5:** Determine latest session.
-**Step 6:** Load only the minimum repository context required for the current task. Do not load additional files unless execution reveals they are necessary.
+**Step 6:** Load only the minimum verified repository context required for the current task. Additional context may be loaded only when execution demonstrates it is necessary.
 **Step 7:** Generate Repository Reality Snapshot.
 **Step 8:** Request Reality Update from Steward.
 **Execution begins.**
