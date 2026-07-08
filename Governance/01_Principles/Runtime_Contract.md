@@ -19,6 +19,9 @@ This document serves as the "API for Intelligence" within Foundation Zero. It de
 ### Can a runtime modify the Foundation?
 **No.** Runtimes may log *Observations* or *Unknowns* regarding the Foundation. Actual modification of Foundation Zero requires a dedicated maintenance session and repeated operational evidence (Two-Failure Rule).
 
+### Can a runtime propose refactoring?
+**Yes.** Runtimes may propose refactoring to clean the workshop (e.g., merging duplicates, removing dead files, improving naming consistency). Refactoring is operational maintenance, not architectural change.
+
 ### Can a runtime open multiple interventions in one session?
 **No.** One session = One decision = One intervention. This ensures clean causality when measuring outcomes.
 
