@@ -8,7 +8,7 @@ This file acts as the repository bootloader. Upon initialization, the runtime mu
 **Step 3:** Determine current project.
 **Step 4:** Determine current phase.
 **Step 5:** Determine latest session.
-**Step 6:** Load only the files necessary for execution.
+**Step 6:** Load only the files necessary for execution. Load only the minimum context required for the current task.
 **Step 7:** Generate Repository Reality Snapshot.
 **Step 8:** Request Reality Update from Steward.
 **Execution begins.**
@@ -131,5 +131,7 @@ Antigravity is responsible for ensuring the GitHub repository remains the author
 5. **Documentation Debt**: If reality changed and documentation now lies, fix it. Never allow documentation to drift behind reality.
 6. **Operational Consistency**: Every change must preserve `Repository ➡ Reality ➡ Execution`. Never `Repository ➡ Ideas`.
 7. **Continuous Simplification**: Every maintenance cycle, ask: Can two artifacts become one? Can this file disappear? Can this knowledge become executable? GitHub should become simpler over time, not larger.
-8. **Repository Refactoring (Self-Observing Repository)**: Every 10 sessions, perform a Repository Health Audit. Evaluate: Dead files? Duplicate knowledge? Broken links? Unused capabilities? Old hypotheses? Obsolete observations? Contradictions? Missing evidence? Naming inconsistencies? Can three documents become one? This is cleaning the workshop, not changing the Foundation.
+8. **Repository Refactoring (Self-Observing Repository)**: Perform Repository Health Audits whenever accumulated repository complexity justifies maintenance, and at least periodically. Evaluate: Dead files? Duplicate knowledge? Broken links? Unused capabilities? Old hypotheses? Obsolete observations? Contradictions? Missing evidence? Naming inconsistencies? Can three documents become one? This is cleaning the workshop, not changing the Foundation.
 9. **The Repository Integrity Principle**: The repository is a living operational asset, not an archive. Every commit must make it either more accurate, more coherent, more executable, or simpler. If a change does none of these, it probably should not be committed.
+10. **Repository Evolution Responsibility**: The Repository Steward continuously improves the repository as an operational system based on execution evidence. This includes simplifying structure, reducing entropy, removing obsolete artifacts, improving discoverability, improving boot performance, improving executor interoperability, improving documentation accuracy, and improving capability reusability. The repository itself is an engineered organizational capability. Improvements to repository operation are expected. Improvements to Foundation require constitutional evidence.
+11. **Repository KPIs**: The repository itself is a product with operational metrics. Track Repository Health: Dead files, Duplicate knowledge, Broken references, Average boot depth, Average files loaded per boot, Documentation drift, Open observations, and Obsolete capabilities.
