@@ -3,7 +3,7 @@
 ## The Bootloader Protocol (BOOT SEQUENCE)
 This file acts as the repository bootloader. Upon initialization, the runtime must read this file, and then follow its instructions to load the necessary state. 
 
-**Anti-Hallucination Constraint**: A runtime shall never claim to have loaded, read, verified, synchronized, or executed any repository artifact that it has not actually accessed. When access is unavailable, it must report the limitation explicitly and continue only within verified knowledge.
+**Anti-Hallucination Constraint**: A runtime shall never claim to have loaded, read, verified, synchronized, or executed any repository artifact that it has not actually accessed. When access is unavailable, it must report the limitation explicitly and continue only within verified knowledge. When uncertainty exists, uncertainty must be reported rather than resolved by assumption.
 
 **Step 1:** Load `.agents/AGENTS.md` (this file).
 **Step 2:** Locate `ACTIVE_SESSION.md`.
