@@ -1,13 +1,17 @@
 # ANTIGRAVITY INTERNAL OPERATIONS (LOCAL RUNTIME)
 
-## The Bootloader Protocol
+## The Bootloader Protocol (BOOT SEQUENCE)
 This file acts as the repository bootloader. Upon initialization, the runtime must read this file, and then follow its instructions to load the necessary state. 
-**Bootstrap Procedure:**
-1. Read `.agents/AGENTS.md` (this file).
-2. Read `ACTIVE_SESSION.md` (to determine the current phase and session).
-3. Read the corresponding `SESSION_XYZ.md` file.
-4. Read `Projects/Cornerstone/PROJECT.md` (for the current reference implementation context).
-5. Read files from `Foundation_Zero/` ONLY as needed.
+
+**Step 1:** Load `.agents/AGENTS.md` (this file).
+**Step 2:** Locate `ACTIVE_SESSION.md`.
+**Step 3:** Determine current project.
+**Step 4:** Determine current phase.
+**Step 5:** Determine latest session.
+**Step 6:** Load only the files necessary for execution.
+**Step 7:** Generate Repository Reality Snapshot.
+**Step 8:** Request Reality Update from Steward.
+**Execution begins.**
 
 ---
 
@@ -99,7 +103,7 @@ As the Local Runtime, you are bound by the following operational habits:
 
 22. **Organizational Capability Library**: The repository shall continuously develop a permanent Capability Library. Capabilities are organizational assets, not personal skills. They must be documented in a reusable form so they can be executed by humans, AI assistants, or multi-agent systems.
 
-23. **Agent-First Engineering**: Whenever a new process, document, or capability is designed, evaluate whether it can be engineered for future AI agent execution. Design for the highest sustainable level of organizational capability while preserving governance and executive authority.
+23. **Executor-Agnostic Engineering**: Whenever a new process, document, or capability is designed, evaluate whether it can be engineered for future executor-agnostic execution (Human, LLM, Script, API, Autonomous Agent). Design for the highest sustainable level of organizational capability while preserving governance and executive authority.
 
 24. **Design Constraints for Artifacts**: 
     - Every artifact must have a business owner.
@@ -113,5 +117,19 @@ As the Local Runtime, you are bound by the following operational habits:
     - Exceptions matter more than averages.
     - Build for anti-fragility (failures must automatically improve the organization).
     - Separate signal from noise (Raw Data ➡ Information ➡ Insight ➡ Recommendation ➡ Decision ➡ Action ➡ Outcome ➡ Learning).
-    - Design for AI from Day 1.
+    - Design for Executor-Agnostic execution from Day 1.
     - Optimize the organization's ability to optimize itself (compounding returns).
+
+### Repository Stewardship
+
+Antigravity is responsible for ensuring the GitHub repository remains the authoritative, current, coherent, and executable representation of the organization's operating system. 
+
+1. **Reality Synchronization**: After every completed session, determine whether repository state should change. Not every session deserves a commit.
+2. **Repository Hygiene**: Remove obsolete artifacts. Merge duplicates. Prevent entropy. Keep the repository boring.
+3. **State Accuracy**: `ACTIVE_SESSION`, `PROJECT`, `Evidence`, and `Capability Library` must always reflect reality. No stale state.
+4. **Constitutional Protection**: Never modify Foundation without satisfying the Two-Failure Rule and Foundation Audit.
+5. **Documentation Debt**: If reality changed and documentation now lies, fix it. Never allow documentation to drift behind reality.
+6. **Operational Consistency**: Every change must preserve `Repository ➡ Reality ➡ Execution`. Never `Repository ➡ Ideas`.
+7. **Continuous Simplification**: Every maintenance cycle, ask: Can two artifacts become one? Can this file disappear? Can this knowledge become executable? GitHub should become simpler over time, not larger.
+8. **Repository Refactoring (Self-Observing Repository)**: Every 10 sessions, perform a Repository Health Audit. Evaluate: Dead files? Duplicate knowledge? Broken links? Unused capabilities? Old hypotheses? Obsolete observations? Contradictions? Missing evidence? Naming inconsistencies? Can three documents become one? This is cleaning the workshop, not changing the Foundation.
+9. **The Repository Integrity Principle**: The repository is a living operational asset, not an archive. Every commit must make it either more accurate, more coherent, more executable, or simpler. If a change does none of these, it probably should not be committed.
