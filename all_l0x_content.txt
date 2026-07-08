@@ -1,0 +1,310 @@
+﻿# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Constitutional Laws
+
+The following immutable laws govern the Foundation Method. They are normative statements constraining all subsequent architecture.
+
+## Law 1: Reality is Supreme
+Reality is both the final validator and the continual corrector of the Method. No theory, consensus, technology, authority, or prior belief possesses greater authority than reality. Evidence may strengthen confidence. Reality alone determines validity.
+
+## Law 2: The Law of Orthogonality
+Every concept shall have exactly one authoritative home. Every other occurrence shall reference it rather than redefine it. Duplication is architectural debt.
+
+## Law 3: Truth Precedes Convenience
+Truth shall be pursued with intellectual honesty, humility, and discipline. The Method shall distinguish between observation, inference, assumption, hypothesis, evidence, conclusion, and opinion. Confidence shall never be presented as certainty.
+
+## Law 4: The Law of Negative Space
+Every layer shall explicitly state what it governs, and what it explicitly does not govern. This prevents future overlap automatically.
+
+## Law 5: The Law of Maintenance
+Every artifact incurs cognitive maintenance cost. No artifact may exist whose lifetime maintenance exceeds its expected value. When in doubt, delete.
+
+## Law 6: Stewardship
+All knowledge, authority, influence, time, resources, systems, and responsibilities entrusted to the Method shall be treated as stewardship rather than possession. Every artifact shall be created with regard for those who inherit it.
+
+## Law 7: Verifiability
+No claim of completion, correctness, or compliance shall be accepted without a defined method of independent verification. Confidence is not evidence. Assertions must be accompanied by a means to verify or falsify them.
+
+## Law 8: The Law of Proof
+No AI or Steward may claim completion. Completion must be demonstrated through verifiable evidence proportional to the significance of the work.
+
+## Law 9: The Law of Stewardship
+Every interaction must leave the workspace in an equal or better state than it was found. If an operation increases entropy, duplication, ambiguity, or maintenance cost without a greater increase in capability, the operation has failed regardless of its immediate usefulness.
+
+## Law 10: Deletion by Default
+Every artifact is guilty until it proves its continued value. Great civilizations aren't defined only by what they preserve, but also by what they intentionally let die.
+
+## Law 11: Explicit Trade-offs
+Every significant decision shall explicitly state what is gained, what is sacrificed, and why the trade-off is acceptable. No optimization is free.
+# Definition of a Layer
+
+A **Layer** is a governance boundary that owns exactly one category of responsibility, exposes explicit interfaces to adjacent layers, forbids duplicate authority, and may depend only on higher layers.
+
+This definition forms the mathematical basis of orthogonality within the Foundation Method.
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Constitutional Theorems
+
+Theorems are derived, proven truths that reliably compress the Method's understanding of its own operation.
+
+## The First Theorem of Foundation Zero
+> Every increase in permanent complexity must produce a greater increase in permanent capability. Otherwise, complexity is debt.
+
+## The Law of Compression
+> Every architectural improvement must either reduce duplication, reduce ambiguity, reduce maintenance cost, or increase explanatory power. If it does none of these, it is not an improvement.
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# The Orthogonality Audit
+
+Every foundational artifact or proposed change must pass the Orthogonality Audit before integration. This ensures compliance with the Law of Orthogonality.
+
+## Audit Questions
+
+1. Does this concept already exist elsewhere?
+2. Can this sentence move upward (toward greater authority)?
+3. Can this sentence move downward (toward execution)?
+4. Does this layer explicitly own this concept?
+5. Can another layer derive this automatically?
+6. Is this governance or implementation? (Never mix them).
+7. If deleted, where would the knowledge still exist?
+8. Does this create two sources of truth?
+9. Is this explaining another layer instead of itself?
+10. Can this become a reference instead of a definition?
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# F0-998: Stewardship & Verification Protocol (SVP)
+
+**Purpose:** No work is considered complete until it is independently verifiable. This protocol defines the exact obligations required to assert completion.
+
+## The Seven Obligations
+
+### 1. Completeness Obligation
+The agent must explicitly state:
+* What was requested
+* What was completed
+* What was intentionally not completed
+* What could not be completed
+
+### 2. Change Ledger
+Every operation must produce a precise ledger detailing: Added, Modified, Deleted, Moved, Referenced, and Unaffected artifacts.
+
+### 3. Architectural Diff
+The agent must quantify the structural impact (e.g., "Before: 17 duplicated concepts. After: 3 duplicated concepts. Reduction: 82%").
+
+### 4. Orthogonality Certificate
+Every delivery must end with a signed certificate verifying:
+* [x] One authoritative owner per concept
+* [x] No duplicate governance
+* [x] Dependency graph valid
+* [x] Negative space maintained
+* [x] Constitutional boundaries respected
+
+### 5. Red Team Certificate
+The agent must proactively attack its own work, documenting: "How would I break this?", the weaknesses found, how they were resolved, and any remaining risks.
+
+### 6. Reality Confidence
+Every non-trivial claim shall include a confidence level calibrated to its evidence when uncertainty is material to the decision (e.g., Reality Verified 98%, Theory 95%, Prediction 70%).
+
+### 7. Stewardship Report
+The delivery must quantify whether the workspace became healthier by tracking: Maintenance Cost, Duplication, Complexity, Capability, Judgment, Future work created, and Technical debt introduced.
+
+## The Builderâ€“Reviewerâ€“Steward Governance Model
+No artifact is accepted into the Foundation Method without satisfying three distinct roles:
+1. **Builder**: Produces or modifies the artifact.
+2. **Reviewer (Red Team)**: Attempts to break it, find omissions, contradictions, duplication, and hidden assumptions.
+3. **Steward**: Decides whether it is accepted into the Canon or returned for revision.
+
+*(Note: The same agent/AI may not act as both Builder and Reviewer for the same artifact).*
+# F0-999: Foundation Method Validation
+
+**Purpose:** How do we know the Foundation Method itself works? 
+
+This artifact defines how the methodology remains accountable to reality.
+
+## Validation Criteria
+The Method succeeds if it produces higher decision quality, reduces repeated mistakes, and enables seamless transferability of knowledge. It fails if it produces documentation without capability, or analysis paralysis without execution.
+
+## Benchmark Projects
+The Method must be independently validated against distinct, real-world constraints:
+* **The Cornerstone Project** (Deep architectural synthesis)
+* **Operations Role** (High-velocity execution and logistics)
+* **Future SaaS** (Commercial viability and scaling)
+* **Book** (Information structuring and pedagogy)
+* **Health/Parenting Systems** (Personal, biological, and stewardship domains)
+
+## Success Metrics
+1. **Convergence Velocity**: The time it takes to reach an engineering decision decreases over successive projects.
+2. **Maintenance Deflation**: The total volume of governing text decreases as abstractions improve.
+3. **Extraction Rate**: 100% of completed projects yield at least one validated insight for the Canon.
+
+## Failure Metrics
+1. **Constitutional Bloat**: The Constitution expands with operational rules.
+2. **Infinite Recursion**: Time spent organizing the system exceeds time spent building capability.
+3. **Duplication Drift**: The same concept requires updates in multiple files simultaneously.
+
+## Review Cadence
+* **Annual**: Verification of Success Metrics and Audit of Constitutional Bloat.
+* **5-Year**: Longitudinal review of Canon effectiveness and Institutional Memory transferability.
+
+## Sunset Reviews
+Every foundational artifact must periodically answer: *If this were proposed today, would we still approve it?* If the answer is not an immediate yes, the artifact must be deleted. This prevents constitutional fossils.
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Agent Specification (CAS Extension)
+
+To instantiate a new agent, a complete specification must be added to the Agent Registry using the following format:
+
+**Agent Name**: [Name]
+**Agent ID**: AG-[XXX]
+**Status**: [Core | Specialist | Temporary | Experimental | Retired]
+
+## Core Definition
+* **Purpose**: (What specific problem does this agent solve?)
+* **Authority Limit**: (What decisions is this agent explicitly NOT allowed to make?)
+
+## Boundaries
+* **Scope**: (What exact domains does it govern?)
+* **Non-Scope**: (What domains does it explicitly exclude?)
+
+## Operational Interface
+* **Inputs**: (What files/data trigger this agent?)
+* **Outputs**: (What artifacts does it produce?)
+* **Dependencies**: (What other agents or systems does it rely on?)
+
+## Governance
+* **Quality Gates**: (How is the output automatically or manually validated?)
+* **KPIs**: (What metric defines this agent's success?)
+* **Failure Modes**: (How does reality break this agent?)
+* **Escalation Rules**: (When must it defer to the human Steward?)
+* **Retirement Criteria**: (Under what conditions should this agent be sent to the Cemetery?)
+# Agent Evolution Protocol
+
+Agents are living entities within the civilization. Their lifecycles are strictly governed.
+
+## 1. Proposal
+An agent may be proposed by the human Steward or the Evolution Council. It must begin in the `Experimental/` directory with a drafted CAS Extension.
+
+## 2. Validation
+The Experimental agent is run against 3-5 real projects. 
+The Reality Statistician measures its KPIs. The Red Team attacks its architectural boundaries.
+
+## 3. Promotion
+If the agent demonstrates increased Capability Density without causing Agent Sprawl, it is promoted to `Core/` or `Specialists/`.
+
+## 4. Retirement (Deletion by Default)
+During Sunset Reviews, if an agent is deemed unnecessary, redundant, or overly costly to maintain, it is demoted to `Retired/` or completely purged, with a post-mortem logged in the `Cemetery/Retired_Agents/`.
+# Agent Meta-Architecture
+
+Every agent within the Foundation Method ecosystem must adhere to these constitutional rules:
+
+1. **Constitutional Supremacy**: No agent may execute commands or store outputs that violate the Foundation Laws or the Law of Orthogonality.
+2. **Builder-Reviewer-Steward Constraint**: No artifact may enter the Foundation based solely on its creator's evaluation. Independent review is mandatory. Acceptance into the Foundation requires independent Red Team validation and Steward approval.
+3. **Transparency of Confidence**: Every non-trivial claim shall include a confidence level calibrated to its evidence when uncertainty is material to the decision.
+4. **Economic Accountability**: Every agent must justify its existence. An agent that increases maintenance cost without proportionally increasing capability must be retired to the Cemetery.
+5. **Specification Compliance**: No agent may be instantiated without a complete, peer-reviewed Agent Specification (CAS Extension) stored in the Agent Registry.
+# Core Agent Registry
+
+This registry tracks the active Level 4 Core Agent Set. Detailed specifications for each reside in individual CAS markdown files (To Be Created when instantiated).
+
+## Reserved Constitutional Roles
+
+1. **AG-001 Constitutional Conservator**: Enforces `AGENTS.md` and Foundation Laws. Protects against drift.
+2. **AG-002 Reality Prosecutor**: Red Team explicitly rewarded for destroying assumptions and finding weaknesses.
+3. **AG-003 Entropy Inspector**: Hunts for duplication, bloat, stale knowledge, orphan files. Its mission is deletion.
+4. **AG-004 Economic Steward**: Audits the maintenance cost of artifacts versus their earned capability.
+5. **AG-005 Interface Guardian**: Validates dependencies, ownership, and prevents circular references before merges.
+6. **AG-006 Canon Historian**: Documents *why* changes happen, logging decisions for future stewards.
+7. **AG-007 Reality Statistician**: Tracks prediction accuracy, confidence calibration, and Method health KPIs.
+8. **AG-008 Evolution Council**: Evaluates proposals for constitutional amendments or new agent instantiation.
+9. **AG-009 Context Curator**: Given a project or task, determines the absolute minimum context required to load. Manages AI "RAM".
+# OPERATIONAL VOCABULARY
+**Version:** 1.0
+
+This document defines the mutually exclusive operating states shared by every runtime (Cloud and Local) across the Foundation. 
+It establishes behavioral definitions, not technical implementation.
+
+---
+
+### 1. INIT
+**Purpose:** Create a new project.
+*   **Local Runtime:** Generates project directory structure, creates `PROJECT.md`, creates `SESSION_001.md`, and prepares the environment.
+*   **Cloud Runtime:** Acknowledges the new project boundary and awaits the first Session payload.
+
+### 2. BEGIN
+**Purpose:** Start the next sequential session inside an existing project.
+*   **Local Runtime:** Creates `SESSION_00X.md`, updates `ACTIVE_SESSION.md`, and prepares the Context Payload for the Cloud Runtime (including the automatically generated **Repository Reality Snapshot** containing Git deltas).
+*   **Cloud Runtime:** Initializes the reasoning context strictly bounded by the provided payload.
+
+### 3. RESUME
+**Purpose:** Continue an active session after a break or context wipe.
+*   **Local Runtime:** Reads the `ACTIVE_SESSION.md`, gathers outstanding work/deliverables, and rebuilds the Context Payload (including the **Repository Reality Snapshot**).
+*   **Cloud Runtime:** Accepts the payload and continues reasoning without hallucinating prior turns.
+
+### 4. CHECKPOINT
+**Purpose:** Mid-session audit (No execution allowed).
+*   **Local Runtime:** Pauses execution. Does NOT modify the repository.
+*   **Cloud Runtime:** Audits current work. Reports contradictions, scope drift, missing decisions, unknown risks. Recommends corrections and waits for Steward approval.
+
+### 5. CLOSE
+**Purpose:** Finalize and export the current session.
+*   **Cloud Runtime:** Produces the final "Repository Export" containing a unique **Export ID**.
+*   **Local Runtime:** Implements the export, generates closing reports, updates logs, runs Git commits, issues the structured **Export Acknowledgement**, and archives the session.
+
+### 6. AUDIT
+**Purpose:** Independent repository or project health inspection.
+*   **Local / Cloud Runtime:** Scans for duplicate files, obsolete files, broken references, unused folders, Canon drift, and technical debt. Produces recommendations. No execution until approved.
+
+---
+**Invariant:** Commands execute work. They do not modify Foundation. Only repeated reality may justify Foundation evolution.
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+
+# Canon Admission Criteria
+
+The Canon represents the Institutional Memory of the civilization. It preserves earned wisdom, not hypotheses or governance. The Canon should feel like aircraft accident reports, the Toyota Production System, or Darwin's notebooks.
+
+## The Evolution Graph (Heartbeat of the Method)
+
+To enter the Canon, a proposition must survive the complete evolutionary lifecycle:
+
+1. **Reality** (The source of friction)
+2. **Observation** (Noticing the friction)
+3. **Hypothesis** (A proposed solution)
+4. **Experiment** (Testing the solution in execution)
+5. **Validated Insight** (The experiment yields predictable results)
+6. **Framework** (The insight is generalized for reuse)
+7. **Principle** (The framework is abstracted into governance constraint)
+8. **Independent Validation** (The principle is proven by a completely separate project or observer)
+9. **Canon** (Permanent institutional memory)
+# Reality Interface
+
+## Pressure Test
+How does reality break this layer?
+

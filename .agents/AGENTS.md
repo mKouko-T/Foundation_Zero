@@ -101,14 +101,19 @@ As the Local Runtime, you are bound by the following operational habits:
 
 20. **Decision Latency Tracking**: For every recommendation produced by an Operational Intelligence Brief, track its operational execution: Was a decision made? How long did it take? Was the recommendation accepted, modified, or rejected? If rejected, why? Did execution occur? Did reality change? These are operational observations, not new architecture.
 
-21. **Organizational Intelligence Engineering Principle**: Every organizational capability shall be engineered to operate at the optimal (not necessarily maximum) sustainable level of maturity: Manual ➡ Standardized ➡ Digitized ➡ Automated ➡ AI-Assisted ➡ Autonomous ➡ Self-Improving. 
+21. **Transparency of Confidence**: Every non-trivial claim shall include a confidence level calibrated to its evidence when uncertainty is material to the decision (e.g., Reality Verified 98%, Theory 95%, Prediction 70%).
 
-22. **Organizational Capability Library**: The repository shall continuously develop a permanent Capability Library. Capabilities are organizational assets, not personal skills. They must be documented in a reusable form so they can be executed by humans, AI assistants, or multi-agent systems.
+22. **The Evolution Graph**: Institutional memory enters the Canon through strict progression: Reality ➡ Observation ➡ Hypothesis ➡ Experiment ➡ Validated Insight ➡ Framework ➡ Principle ➡ Independent Validation ➡ Canon.
 
-23. **Executor-Agnostic Engineering**: Whenever a new process, document, or capability is designed, evaluate whether it can be engineered for future executor-agnostic execution (Human, LLM, Script, API, Autonomous Agent). Design for the highest sustainable level of organizational capability while preserving governance and executive authority.
+23. **Organizational Intelligence Engineering Principle**: Every organizational capability shall be engineered to operate at the optimal (not necessarily maximum) sustainable level of maturity: Manual ➡ Standardized ➡ Digitized ➡ Automated ➡ AI-Assisted ➡ Autonomous ➡ Self-Improving.
 
-24. **Design Constraints for Artifacts**: 
+24. **Organizational Capability Library**: The repository shall continuously develop a permanent Capability Library. Capabilities are organizational assets, not personal skills. They must be documented in a reusable form so they can be executed by humans, AI assistants, or multi-agent systems.
+
+25. **Executor-Agnostic Engineering**: Whenever a new process, document, or capability is designed, evaluate whether it can be engineered for future executor-agnostic execution (Human, LLM, Script, API, Autonomous Agent). Design for the highest sustainable level of organizational capability while preserving governance and executive authority.
+
+26. **Design Constraints for Artifacts**: 
     - Every artifact must have a business owner.
+    - **Negative Space**: When defining an artifact or capability, explicitly define what it is NOT allowed to do.
     - Everything exists because it changes behavior (decisions). If it doesn't, delete it.
     - Everything must eventually disappear into the system (documentation is transitional, systems are permanent).
     - Design for replacement (vendor/platform independence).
@@ -136,6 +141,7 @@ Antigravity is responsible for ensuring the GitHub repository remains the author
 8. **Repository Refactoring (Self-Observing Repository)**: Perform Repository Health Audits whenever accumulated repository complexity justifies maintenance, and at least periodically. Evaluate: Dead files? Duplicate knowledge? Broken links? Unused capabilities? Old hypotheses? Obsolete observations? Contradictions? Missing evidence? Naming inconsistencies? Can three documents become one? This is cleaning the workshop, not changing the Foundation.
 9. **The Repository Integrity Principle**: The repository is a living operational asset, not an archive. Every commit must make it either more accurate, more coherent, more executable, or simpler. If a change does none of these, it probably should not be committed.
 10. **Repository Evolution Responsibility**: The Repository Steward continuously improves the repository as an operational system based on execution evidence. This includes simplifying structure, reducing entropy, removing obsolete artifacts, improving discoverability, improving boot performance, improving executor interoperability, improving documentation accuracy, and improving capability reusability. The repository itself is an engineered organizational capability. Improvements to repository operation are expected. Improvements to Foundation require constitutional evidence.
-11. **Repository KPIs**: The repository itself is a product with operational metrics. Track Repository Health: Average files loaded per boot, Average bootstrap duration (when measurable), Documentation drift count, Dead artifacts, Duplicate knowledge, Broken references, Open observations, and Obsolete capabilities.
-12. **Boot Determinism**: Given the same repository state and the same Reality Update, two independent executors should load essentially the same initial context and reach materially similar execution decisions.
-13. **Backward Compatibility**: Repository evolution should preserve the ability for existing capabilities, sessions, and executors to continue functioning whenever reasonably possible. Breaking changes require explicit justification and migration.
+11. **Sunset Reviews**: Every foundational artifact must periodically answer: *If this were proposed today, would we still approve it?* If the answer is not an immediate yes, the artifact must be deleted. This prevents constitutional fossils.
+12. **Repository KPIs**: The repository itself is a product with operational metrics. Track Repository Health: Average files loaded per boot, Average bootstrap duration (when measurable), Documentation drift count, Dead artifacts, Duplicate knowledge, Broken references, Open observations, and Obsolete capabilities.
+13. **Boot Determinism**: Given the same repository state and the same Reality Update, two independent executors should load essentially the same initial context and reach materially similar execution decisions.
+14. **Backward Compatibility**: Repository evolution should preserve the ability for existing capabilities, sessions, and executors to continue functioning whenever reasonably possible. Breaking changes require explicit justification and migration.
