@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "provenance": {
+    "generated_by": "StateCompiler v1.2",
+    "timestamp": "2026-07-09T12:29:24.575712+00:00",
+    "bios_hash": "4b01b47e10a9f79f1b1bc4b92aed0bc8469bce2786feaa2401646c82cbc85313",
+    "commit": "b2f321a16812dea57b0f2124422802aed884ddc9"
+  },
+  "capabilities": {
+    "Knowledge": "Pilot",
+    "Orchestrator": "Stable",
+    "Promotion": "Pilot",
+    "Recovery": "Stable",
+    "Verification": "Stable"
+  },
+  "health": {
+    "schemas": "PASS",
+    "ci": "UNKNOWN (Local)",
+    "tests": "PASS",
+    "adr_compliance": "PASS",
+    "bios": "PASS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Repository BIOS",
+  "type": "object",
+  "properties": {
+    "repository_identity": {
+      "type": "string"
+    },
+    "repository_version": {
+      "type": "string"
+    },
+    "protocol_version": {
+      "type": "string"
+    },
+    "specification_version": {
+      "type": "string"
+    },
+    "compatibility": {
+      "type": "object"
+    },
+    "generation_rules": {
+      "type": "object"
+    },
+    "boot_rules": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "repository_identity",
+    "repository_version",
+    "protocol_version"
+  ]
+}

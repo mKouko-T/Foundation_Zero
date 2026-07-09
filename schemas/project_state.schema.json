@@ -12,14 +12,10 @@
         "generated_by": {
           "type": "string"
         },
-        "generator_version": {
+        "timestamp": {
           "type": "string"
         },
-        "timestamp": {
-          "type": "string",
-          "format": "date-time"
-        },
-        "manifest_hash": {
+        "bios_hash": {
           "type": "string"
         },
         "commit": {
@@ -30,14 +26,20 @@
     "health": {
       "type": "object",
       "properties": {
-        "score": {
-          "type": "integer"
+        "schemas": {
+          "type": "string"
         },
-        "warnings": {
-          "type": "integer"
+        "ci": {
+          "type": "string"
         },
-        "critical": {
-          "type": "integer"
+        "tests": {
+          "type": "string"
+        },
+        "adr_compliance": {
+          "type": "string"
+        },
+        "bios": {
+          "type": "string"
         }
       }
     },

@@ -39,6 +39,7 @@ def compile_state(repo_dir):
     bios_pass = "PASS" if os.path.exists(bios_path) else "FAIL"
 
     state_json = {
+        "schema_version": "1.0",
         "provenance": {
             "generated_by": "StateCompiler v1.2",
             "timestamp": timestamp,
