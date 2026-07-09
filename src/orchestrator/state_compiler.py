@@ -23,6 +23,7 @@ def compile_state(repo_dir):
     commit = get_git_commit(repo_dir)
     timestamp = datetime.datetime.now(datetime.UTC).isoformat()
     
+    # Capabilities
     caps_dir = os.path.join(repo_dir, "capabilities")
     caps = {}
     if os.path.exists(caps_dir):
@@ -32,27 +33,41 @@ def compile_state(repo_dir):
                     data = json.load(cf)
                     caps[data.get("capability", "Unknown")] = data.get("status", "Unknown")
     
-    schemas_pass = "PASS" if os.path.exists(os.path.join(repo_dir, "schemas")) else "FAIL"
-    ci_pass = "PASS" if os.environ.get("CI") == "true" or os.environ.get("GITHUB_ACTIONS") else "UNKNOWN (Local)"
-    tests_pass = "PASS" # Assuming state compiler only runs if tests pass
-    adr_pass = "PASS" # Assuming CI blocks if ADR fails
-    bios_pass = "PASS" if os.path.exists(bios_path) else "FAIL"
+    # SMART Repository Health / Self-Awareness
+    try:
+        subprocess.check_output([sys.executable, "-m", "pytest", os.path.join(repo_dir, "tests")], stderr=subprocess.STDOUT)
+        tests_passing = True
+    except subprocess.CalledProcessError:
+        tests_passing = False
+    except FileNotFoundError:
+        tests_passing = False
+
+    try:
+        last_commit_date_str = subprocess.check_output(['git', 'log', '-1', '--format=%cd', '--date=iso-strict'], cwd=repo_dir).decode('utf-8').strip()
+        last_commit_date = datetime.datetime.fromisoformat(last_commit_date_str.replace('Z', '+00:00'))
+        staleness_days = (datetime.datetime.now(datetime.timezone.utc) - last_commit_date).days
+    except Exception:
+        staleness_days = 0
+
+    adr_dir = os.path.join(repo_dir, "constitution", "adr")
+    adrs_accumulated = len([f for f in os.listdir(adr_dir) if f.endswith(".md")]) if os.path.exists(adr_dir) else 0
+
+    maintenance_recommended = not tests_passing or staleness_days > 30 or adrs_accumulated > 20
 
     state_json = {
         "schema_version": "1.0",
         "provenance": {
-            "generated_by": "StateCompiler v1.2",
+            "generated_by": "StateCompiler v1.3",
             "timestamp": timestamp,
             "bios_hash": bios_hash,
             "commit": commit
         },
         "capabilities": caps,
         "health": {
-            "schemas": schemas_pass,
-            "ci": ci_pass,
-            "tests": tests_pass,
-            "adr_compliance": adr_pass,
-            "bios": bios_pass
+            "tests_passing": tests_passing,
+            "staleness_days": staleness_days,
+            "adrs_accumulated": adrs_accumulated,
+            "maintenance_recommended": maintenance_recommended
         }
     }
     
@@ -79,12 +94,11 @@ def compile_state(repo_dir):
         md_content += f"| {cap} | {status} |\n"
         
     md_content += f"""
-## Repository Health Facts
-- **Schemas:** {schemas_pass}
-- **CI:** {ci_pass}
-- **Tests:** {tests_pass}
-- **ADR Compliance:** {adr_pass}
-- **BIOS:** {bios_pass}
+## Repository Health (SMART)
+- **Tests Passing:** {'Yes' if tests_passing else 'No'}
+- **Staleness:** {staleness_days} days since last commit
+- **ADRs Accumulated:** {adrs_accumulated}
+- **Maintenance Recommended:** {'Yes' if maintenance_recommended else 'No'}
 """
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)

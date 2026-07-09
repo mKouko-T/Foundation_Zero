@@ -26,20 +26,17 @@
     "health": {
       "type": "object",
       "properties": {
-        "schemas": {
-          "type": "string"
+        "tests_passing": {
+          "type": "boolean"
         },
-        "ci": {
-          "type": "string"
+        "staleness_days": {
+          "type": "integer"
         },
-        "tests": {
-          "type": "string"
+        "adrs_accumulated": {
+          "type": "integer"
         },
-        "adr_compliance": {
-          "type": "string"
-        },
-        "bios": {
-          "type": "string"
+        "maintenance_recommended": {
+          "type": "boolean"
         }
       }
     },
