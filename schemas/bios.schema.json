@@ -3,6 +3,10 @@
   "title": "Repository BIOS",
   "type": "object",
   "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
     "repository_identity": {
       "type": "string"
     },
