@@ -1,0 +1,141 @@
+﻿# Repository Constitution Test
+
+Before any governance modification is accepted, it must pass this 7-point test:
+
+1. [ ] Does this reduce ambiguity?
+2. [ ] Does this improve traceability?
+3. [ ] Does this reduce cognitive load?
+4. [ ] Does this remain reusable across projects?
+5. [ ] Does this preserve orthogonality?
+6. [ ] Could this have been solved by improving an existing artifact instead of creating a new one?
+7. [ ] Will this still make sense after 100 sessions?
+
+**Rule:** Only if all seven pass should the governance change be accepted. This prevents Governance itself from becoming bloated over time.
+# Runtime Contract
+
+This document serves as the "API for Intelligence" within Foundation Zero. It defines exactly what any runtimeâ€”whether Human, LLM, API, Script, or Autonomous Agentâ€”is permitted to do within the repository.
+
+## 1. Permissions & Restrictions
+
+### Can a runtime delete files?
+**Yes.** Runtimes are encouraged to propose the deletion of obsolete files, stale logs, and unused capabilities. Deletion reduces entropy. Deletion of constitutional artifacts requires Steward approval.
+
+### Can a runtime create architecture?
+**No.** Runtimes may not create new governance artifacts, directories, ledgers, or registers without invoking the Two-Failure Rule and obtaining explicit Steward approval. Runtimes create *evidence*, not architecture.
+
+### Can a runtime skip evidence?
+**No.** Execution must be measured. If an intervention cannot be measured, it is not an experiment.
+
+### Can a runtime commit to the repository?
+**Yes.** Runtimes are responsible for maintaining the repository. However, commits must adhere strictly to the **Repository Integrity Principle**: every commit must make the repository more accurate, more coherent, more executable, or simpler.
+
+### Can a runtime modify the Foundation?
+**No.** Runtimes may log *Observations* or *Unknowns* regarding the Foundation. Actual modification of Foundation Zero requires a dedicated maintenance session and repeated operational evidence (Two-Failure Rule).
+
+### Can a runtime propose refactoring?
+**Yes.** Runtimes may propose refactoring to clean the workshop (e.g., merging duplicates, removing dead files, improving naming consistency). Refactoring is operational maintenance, not architectural change.
+
+### Can a runtime open multiple interventions in one session?
+**No.** One session = One decision = One intervention. This ensures clean causality when measuring outcomes.
+
+### When must a runtime stop and ask the Steward?
+A runtime must halt execution and request guidance when:
+1. It encounters a contradiction in the repository.
+2. It detects that an intervention carries significant business risk or requires executive authority it does not possess.
+3. It determines that the only path forward requires a constitutional change to the Foundation.
+
+## 2. Operational Default
+Runtimes operate under the assumption that the current repository state is sufficient for execution. If a runtime fails to execute a task, the default assumption is that the runtime requires better operational data (reality), not that the framework requires new architecture.
+# Assumptions Register
+
+| Assumption ID | Description | Source/Context | Validation Trigger | Status |
+|---|---|---|---|---|
+# Evidence Debt Register
+
+| Item | Missing Evidence | Decision Risk | Business Impact | Priority | Owner | Target Resolution |
+|---|---|---|---|---|---|---|
+# Evidence Register
+
+| Evidence ID | Description | Source | Date Logged | Quality Gate Passed |
+|---|---|---|---|---|
+# Unknowns Register
+
+| Unknown ID | Unknown | Owner | Resolution Trigger | Expected Date |
+|---|---|---|---|---|
+| UNK-001 | [Hypothesis] Operating Principle: Observe âž¡ Validate âž¡ Understand âž¡ Measure âž¡ Decide âž¡ Intervene âž¡ Measure Outcome âž¡ Learn âž¡ Standardize âž¡ Institutionalize âž¡ Repeat | Local Runtime | 3 interventions producing better executive decisions | TBD |
+| UNK-002 | [Hypothesis] Four-Layer Architecture: Foundation âž¡ Governance âž¡ Projects âž¡ Runtime State. | Local Runtime | Repository operates successfully across 3 distinct projects | TBD |
+| UNK-003 | [Hypothesis] Decision Provenance & Debt: Track full Reality->Observation->Measurement lineage and formalize Decision Debt. | Local Runtime | 2 instances of untraceable or dropped decisions in real execution | TBD |
+| UNK-004 | [Hypothesis] Unknown/Evidence Lifecycle Metadata: Add age, review count, staleness, priority drift, confidence decay. | Local Runtime | 2 instances of stale evidence leading to poor decisions | TBD |
+| UNK-005 | [Hypothesis] Health Hierarchy: Separate Foundation, Governance, Repository, Project, Operational, and Business health. | Local Runtime | Confusion between repository health and business outcomes | TBD |
+| UNK-006 | [Hypothesis] Advanced Governance Tracking: Intervention Registry, Knowledge Graph, Entropy Metric, Reality Coverage, Org Memory Half-Life. | Local Runtime | Demonstrated inability to scale knowledge across multiple projects | TBD |
+# QG-001: Decision Quality Gate
+
+Before a decision is accepted, ensure:
+- [ ] Is the statement clear and unambiguous?
+- [ ] Are alternatives considered and rejected for logical reasons?
+- [ ] Is there verifiable evidence backing this decision?
+- [ ] Are reversal conditions explicitly defined?
+- [ ] Are impacted artifacts and dependencies identified?
+# QG-002: Evidence Quality Gate
+
+Before evidence is accepted, ensure:
+- [ ] Is the reality observed directly?
+- [ ] Is the measurement quantifiable and objective?
+- [ ] Are inferences separated from the base measurement?
+- [ ] Does this evidence address the core operational bottleneck?
+# QG-003: Repository Synchronization Gate
+
+Before a synchronization packet is considered canonical, ensure:
+- [ ] Are there zero duplicate files?
+- [ ] Are there zero duplicated headings with semantic overlap?
+- [ ] Is there exactly one version of each artifact present?
+- [ ] Is the packet split strictly into "Repository Snapshot" and "Synchronization Instructions"?
+# QG-004: Operational Brief Quality Gate
+
+Before an Operational Intelligence Brief is published, ensure:
+- [ ] Is every recommendation traceable to evidence?
+- [ ] Is every inference supported by observations?
+- [ ] Are hypotheses clearly labeled?
+- [ ] Does the Brief require an executive decision?
+- [ ] Would the organization behave differently tomorrow if this Brief were read?
+- [ ] Can success or failure be measured objectively?
+- [ ] Would the Brief still be understandable six months from now without conversational context?
+# QG-005: Canon Addition Gate
+
+Before any process, decision, or artifact is elevated to canonical status, ensure:
+- [ ] Has it been validated by at least three successful operational interventions?
+- [ ] Did it produce better executive decisions?
+- [ ] Is it reusable across the organization (orthogonal to any specific project)?
+# Glossary
+
+| Term ID | Definition | Not Definition | Related Terms | Common Misuse | Examples |
+|---|---|---|---|---|---|
+| GLS-001 | **Operational Intelligence**: Converting operational reality into decisions that improve execution. | Business Intelligence, IT, PMO | Execution, Validation, Evidence | "We need OI to build a dashboard." | A brief recommending an intervention to fix a sales bottleneck. |
+| GLS-002 | **Governance**: Persistent rules and structures that govern execution across all projects. | Project Management, Runtime State | Foundation, Orthogonality | Confusing Governance with State tracking. | The Decision Ledger. |
+# Metrics Dictionary
+
+| Metric ID | Definition | Formula | Owner | Source | Refresh Frequency | Decision Supported | Failure Modes |
+|---|---|---|---|---|---|---|---|
+# Decision Ledger
+
+## DEC-001: Operational Intelligence Boundary
+**Date:** 2026-07-07
+**Status:** Accepted
+**Context:** The scope of Operational Intelligence must be bounded to prevent mission creep.
+
+**Statement:**
+Operational Intelligence IS: Converting operational reality into decisions that improve execution.
+Operational Intelligence IS NOT: Business Intelligence, CRM administration, IT implementation, etc.
+
+**Alternatives Considered:** Allowing organic capability discovery.
+**Why Rejected:** Devolves into "doing everything" (PMO, IT, Analytics).
+**Evidence:** EVD-001 (Historical organizational patterns show unbounded intelligence initiatives default to becoming dashboard factories).
+**Expected Consequences:** Rejection of purely analytical/administrative tasks. Priority on changing decisions over systems.
+**Reversal Conditions:** Fully institutionalized execution-driven intelligence across the organization.
+**Impacted Artifacts:** QG-004 Operational Brief
+**Dependencies:** None
+**Success Review Date:** TBD
+# Canon Evolution Log
+
+| Log ID | Date | Description of Addition/Change | Evidence IDs | Originating Project | Status |
+|---|---|---|---|---|---|

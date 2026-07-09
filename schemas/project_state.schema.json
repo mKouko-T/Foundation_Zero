@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "current_epoch": {
+      "type": "string"
+    },
+    "repository_version": {
+      "type": "string"
+    },
+    "protocol_version": {
+      "type": "string"
+    },
+    "run_status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "current_epoch",
+    "run_status"
+  ]
+}
