@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "capability": "Orchestrator",
+  "status": "Stable",
+  "owner": "Foundation",
+  "dependencies": []
+}

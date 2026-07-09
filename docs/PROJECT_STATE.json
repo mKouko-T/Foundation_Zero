@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "provenance": {
+    "generated_by": "StateCompiler v1.3",
+    "timestamp": "2026-07-09T12:31:54.906328+00:00",
+    "bios_hash": "b72679a2c68a392ccd3af54b2fc6c8185afdc22a99e3b2f9fe9c601e7f9e9af1",
+    "commit": "ea099086924e8433285358f8ec59d8bb46a3e7a9"
+  },
+  "capabilities": {
+    "Knowledge": "Pilot",
+    "Orchestrator": "Stable",
+    "Promotion": "Pilot",
+    "Recovery": "Stable",
+    "Verification": "Stable"
+  },
+  "health": {
+    "tests_passing": true,
+    "staleness_days": 0,
+    "adrs_accumulated": 1,
+    "maintenance_recommended": false
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "repository": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "guarantees": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "repository",
+    "version",
+    "guarantees"
+  ]
+}

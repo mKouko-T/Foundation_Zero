@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "capability": "Promotion",
+  "status": "Pilot",
+  "owner": "Foundation",
+  "dependencies": []
+}
