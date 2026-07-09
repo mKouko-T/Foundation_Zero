@@ -1,0 +1,16 @@
+{
+  "repository": "Foundation_Zero",
+  "version": "1.0",
+  "guarantees": {
+    "immutability": [
+      "CERTIFICATION_LEDGER.md"
+    ],
+    "machine_readability": [
+      "PROJECT_STATE.json",
+      "REPOSITORY_BIOS.json"
+    ],
+    "governance": [
+      "ADR Required for Structural Changes"
+    ]
+  }
+}
