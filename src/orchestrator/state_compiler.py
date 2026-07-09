@@ -3,6 +3,7 @@ import json
 import datetime
 import hashlib
 import subprocess
+import sys
 
 def get_git_commit(repo_dir):
     try:
