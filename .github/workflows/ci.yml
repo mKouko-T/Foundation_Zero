@@ -26,3 +26,4 @@ jobs:
       - name: Run Repository Invariant Tests
         run: |
           pytest tests/test_repository_invariants.py
+          python tests/test_adr_enforcement.py

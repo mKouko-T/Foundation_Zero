@@ -14,9 +14,9 @@ def run_doctor():
     print(f"[{'PASS' if schemas_pass else 'FAIL'}] Schemas Validation")
     
     # Check Manifest
-    manifest_path = os.path.join(repo_dir, "REPOSITORY_MANIFEST.json")
+    manifest_path = os.path.join(repo_dir, "REPOSITORY_BIOS.json")
     manifest_pass = os.path.exists(manifest_path)
-    print(f"[{'PASS' if manifest_pass else 'FAIL'}] Manifest Verification")
+    print(f"[{'PASS' if manifest_pass else 'FAIL'}] BIOS Verification")
     
     # Check Invariants using pytest
     try:

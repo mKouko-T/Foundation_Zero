@@ -1,0 +1,22 @@
+{
+  "repository_identity": "Foundation_Zero",
+  "repository_version": "1.0.0",
+  "protocol_version": "2.3.0",
+  "specification_version": "1.0.0",
+  "compatibility": {
+    "supported_epochs": [
+      "Epoch I"
+    ],
+    "supported_ledger_versions": [
+      "1.0"
+    ]
+  },
+  "generation_rules": {
+    "state": "src/orchestrator/state_compiler.py"
+  },
+  "boot_rules": {
+    "minimum_python_version": "3.11",
+    "hash_algorithm": "SHA-256",
+    "default_encoding": "UTF-8"
+  }
+}
