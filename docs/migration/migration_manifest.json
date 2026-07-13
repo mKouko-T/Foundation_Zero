@@ -1,0 +1,532 @@
+[
+  {
+    "identity_hash": "373dc6bf1ecffaf693f14461c5b4fc5e2fe5c81824cc25e7d3f5a99047358394",
+    "original_path": "Research/Organizational_Science/00_First_Principles_of_OIE.md",
+    "target_path": "knowledge/graph/Organizational_Science/00_First_Principles_of_OIE.md",
+    "epistemic_facet": "Concept",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.623509Z"
+  },
+  {
+    "identity_hash": "0635e02e40b6ec4490b544f05764a26fd744cc531adb86fbdf20a5d6b8547b1f",
+    "original_path": "Research/Organizational_Science/00_Glossary_of_Terms.md",
+    "target_path": "knowledge/graph/Organizational_Science/00_Glossary_of_Terms.md",
+    "epistemic_facet": "Concept",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.632591Z"
+  },
+  {
+    "identity_hash": "8660c470308d6287b34d434793756fb8fdd3b903d6243a657a3a7bbfb63c1deb",
+    "original_path": "Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "target_path": "knowledge/graph/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "epistemic_facet": "Concept",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.638307Z"
+  },
+  {
+    "identity_hash": "8f5b6c20b5d12d711b096811b7c7fe8eb971231b4f0d51398b39652731564124",
+    "original_path": "Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.645288Z"
+  },
+  {
+    "identity_hash": "7f356ac17455de4b13bdcae8f123725826e4c710662499f7a7756970fb05c80e",
+    "original_path": "Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.652439Z"
+  },
+  {
+    "identity_hash": "630a180385f1f4ab5d14726e47e4f143a7801c146ba3efec83dce71b71b4c701",
+    "original_path": "Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.658423Z"
+  },
+  {
+    "identity_hash": "338d92916de039315506baa77ea82d003b403309c47c590c3adad427e0959417",
+    "original_path": "Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.665660Z"
+  },
+  {
+    "identity_hash": "672c7c9112719a158fc7b5f6770e34833e75c5b9ed0d80efec8193ff91b2b2fe",
+    "original_path": "Research/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.672037Z"
+  },
+  {
+    "identity_hash": "70668a1df99ad5236ecd2c909bad28742cee74fe7050b9950499a37d1c2ccfe7",
+    "original_path": "Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "target_path": "knowledge/graph/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.679019Z"
+  },
+  {
+    "identity_hash": "7f3d4f107a822d8eb9de9b438a2ae97dfa3a6fc9d008495918f3653a711aa815",
+    "original_path": "Research/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "target_path": "knowledge/graph/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "epistemic_facet": "Observation",
+    "operational_facet": "Research_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.686187Z"
+  },
+  {
+    "identity_hash": "aec6f6131cb39d3b3d9f3c443997a451248da9476150f2aa453bc15188db9015",
+    "original_path": "Projects/Cornerstone/PROJECT.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/PROJECT.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.694333Z"
+  },
+  {
+    "identity_hash": "3b93cccbcc88d2b5fbeb1781c5e5db468d0645bc936e96b67236b77240a1bf2e",
+    "original_path": "Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.702467Z"
+  },
+  {
+    "identity_hash": "cb8c6489a9f2f2c4678cbe56f4f23ff20c81bef119ff2b9a470db16a44c01011",
+    "original_path": "Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.708450Z"
+  },
+  {
+    "identity_hash": "17db0b5cdf5326bb4a47cbbda778348fd392e2aebda6c7cf7316330b65a47010",
+    "original_path": "Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.716619Z"
+  },
+  {
+    "identity_hash": "435648741d235716bf03a50fabaefb2f2b5003a1d73cbb868f0ac9bccb3a036b",
+    "original_path": "Projects/Cornerstone/Sessions/SESSION_001.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Sessions/SESSION_001.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.725557Z"
+  },
+  {
+    "identity_hash": "9f084ddf94580b81ac1ac802b63aaf8bc10f726310fcd2cb96b1e090cf6b7b45",
+    "original_path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.733493Z"
+  },
+  {
+    "identity_hash": "4bff7f96d7580df68c33254e1a67b3d037ddf833ab3b3ce140f234188b2c55fb",
+    "original_path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.740476Z"
+  },
+  {
+    "identity_hash": "a403ce932e1f64c1eaa7a74932fd05c619b77a01da97f31af2010dc0034fe3af",
+    "original_path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.746460Z"
+  },
+  {
+    "identity_hash": "5320fb849d71bc67c2fdac66a4d56c9851acb47e7b0353ec885544b64a92f697",
+    "original_path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "target_path": "archive/Legacy_Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Project_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.752443Z"
+  },
+  {
+    "identity_hash": "78a9e54081094d2183e6177758cfa06a66b640b5d41dd3d37d153ac1a76b49b3",
+    "original_path": "Governance/01_Principles/Repository_Constitution_Test.md",
+    "target_path": "archive/Legacy_Governance/01_Principles/Repository_Constitution_Test.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.760580Z"
+  },
+  {
+    "identity_hash": "e8d621ef87b8b7d5ebf8972599d001f7c097b216e767fc24722c11ef31710d24",
+    "original_path": "Governance/01_Principles/Runtime_Contract.md",
+    "target_path": "archive/Legacy_Governance/01_Principles/Runtime_Contract.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.766525Z"
+  },
+  {
+    "identity_hash": "ac67c66e776f954ff39d7d48dea1fdb2d4f8ea8729a2b30600c6e3af5d2fd982",
+    "original_path": "Governance/02_Registers/Assumptions_Register.md",
+    "target_path": "archive/Legacy_Governance/02_Registers/Assumptions_Register.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.771675Z"
+  },
+  {
+    "identity_hash": "4668fd5f893bd53ad6a0545bdcb408a2b061f9b52e0e8ab4b9f80b6025d7d7e5",
+    "original_path": "Governance/02_Registers/Evidence_Debt_Register.md",
+    "target_path": "archive/Legacy_Governance/02_Registers/Evidence_Debt_Register.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.776661Z"
+  },
+  {
+    "identity_hash": "9788bce5537048ca757197b7a1d3ee0ad69868e1d9ee6d15c8d3780310d2137f",
+    "original_path": "Governance/02_Registers/Evidence_Register.md",
+    "target_path": "archive/Legacy_Governance/02_Registers/Evidence_Register.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.781831Z"
+  },
+  {
+    "identity_hash": "cdc5c72cc6233107d1620e45a09f1784ee4f98a77d98da2d241636b06a4a8296",
+    "original_path": "Governance/02_Registers/Unknowns_Register.md",
+    "target_path": "archive/Legacy_Governance/02_Registers/Unknowns_Register.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.785821Z"
+  },
+  {
+    "identity_hash": "ebcfbffe6912dd61843019cdf31c0cfc1f5891b9e1d040bbfe27aa6a53021527",
+    "original_path": "Governance/03_Quality/QG-001_Decision_Quality.md",
+    "target_path": "archive/Legacy_Governance/03_Quality/QG-001_Decision_Quality.md",
+    "epistemic_facet": "Decision",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.791981Z"
+  },
+  {
+    "identity_hash": "78505021a27e0d05c2183ce19e8d6fd0a9aacfd34cbce935581af93c026974af",
+    "original_path": "Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "target_path": "archive/Legacy_Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.796968Z"
+  },
+  {
+    "identity_hash": "84672352b636fdfa307348a2e9c6f5427955fd4f5e7a2582bb6f834e5d6a97fc",
+    "original_path": "Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "target_path": "archive/Legacy_Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.802134Z"
+  },
+  {
+    "identity_hash": "c8c28d613c001267d2fec399657c7a09f328476bdc119430b038cdddab14a5ad",
+    "original_path": "Governance/03_Quality/QG-004_Operational_Brief.md",
+    "target_path": "archive/Legacy_Governance/03_Quality/QG-004_Operational_Brief.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.808117Z"
+  },
+  {
+    "identity_hash": "55316c880bd49c85c5d058a5e96acfa2a24576444794f7bb17812702f806ea39",
+    "original_path": "Governance/03_Quality/QG-005_Canon_Addition.md",
+    "target_path": "archive/Legacy_Governance/03_Quality/QG-005_Canon_Addition.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.812287Z"
+  },
+  {
+    "identity_hash": "aa674d7e97d849ec840aa7c094a5f590c5e8370694619f1edf58662374da4d34",
+    "original_path": "Governance/04_Dictionaries/Glossary.md",
+    "target_path": "archive/Legacy_Governance/04_Dictionaries/Glossary.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.817275Z"
+  },
+  {
+    "identity_hash": "ad3656f64ec218ddb83ac707bb49e701cdca7cd1a0d2b33eff0d3b388061f6f8",
+    "original_path": "Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "target_path": "archive/Legacy_Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.822442Z"
+  },
+  {
+    "identity_hash": "5458ed2f56d5048229616c78806572ac21d4dc0597ad20ed1b365a9bd29a27ae",
+    "original_path": "Governance/05_Ledgers/Decision_Ledger.md",
+    "target_path": "archive/Legacy_Governance/05_Ledgers/Decision_Ledger.md",
+    "epistemic_facet": "Decision",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.827429Z"
+  },
+  {
+    "identity_hash": "f3f9f068a7f085036c7721d8d774ae0dcc5becc71c238323461ee9188a93406e",
+    "original_path": "Governance/07_Reviews/Canon_Evolution_Log.md",
+    "target_path": "archive/Legacy_Governance/07_Reviews/Canon_Evolution_Log.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Governance_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.832602Z"
+  },
+  {
+    "identity_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "original_path": "Archive/blind/.gitkeep",
+    "target_path": "archive/Archive/blind/.gitkeep",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.837589Z"
+  },
+  {
+    "identity_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "original_path": "Archive/chunks/.gitkeep",
+    "target_path": "archive/Archive/chunks/.gitkeep",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.839583Z"
+  },
+  {
+    "identity_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "original_path": "Archive/manifests/.gitkeep",
+    "target_path": "archive/Archive/manifests/.gitkeep",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.840744Z"
+  },
+  {
+    "identity_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "original_path": "Archive/raw/.gitkeep",
+    "target_path": "archive/Archive/raw/.gitkeep",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.842739Z"
+  },
+  {
+    "identity_hash": "1c16459f5d98c62b6376a444f9ff067fd5d312c2afc38685dfe4afb5c6c746d2",
+    "original_path": "Archive/Historical/Phase_0_L0X/README.md",
+    "target_path": "archive/Archive/Historical/Phase_0_L0X/README.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.844734Z"
+  },
+  {
+    "identity_hash": "7e0b11679d5e97d96da125f7e42a23aaae1d279ed01c4a2ef93272840dd6fa6c",
+    "original_path": "Cemetery/00_Entrance.md",
+    "target_path": "archive/Cemetery/00_Entrance.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.850205Z"
+  },
+  {
+    "identity_hash": "e0843dbde2b5160889f9cc9725f690446746899705e186ba299acb6d22a8a07a",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.857187Z"
+  },
+  {
+    "identity_hash": "1e7710f3b279b63fdf3d9e5647c4ff69d7dfda60a54d64987e6c46f7e5cfac9f",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.862341Z"
+  },
+  {
+    "identity_hash": "adfe10e5c46c9ba07cf3f95a57114cd2b6fb9d08e4ec18ead4bb68e80358c61e",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.869319Z"
+  },
+  {
+    "identity_hash": "a00f01a1ae5d00e73bfba0cb96cb4491b16a3d46007931f147713c260be4e3ab",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.880291Z"
+  },
+  {
+    "identity_hash": "ca62dc214eb1586d02784fd052bb492cdfe6cc0a0cfd34a7c260c3203eca501d",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.886275Z"
+  },
+  {
+    "identity_hash": "0cd8164110f68f86eef4be43b78b6ae21b2ecb365b20eb515cac5808b50fec76",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.894253Z"
+  },
+  {
+    "identity_hash": "f53f137e2317dcdb2198d1817c55c363917465876284283ea4d69c098a2be80e",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.901235Z"
+  },
+  {
+    "identity_hash": "a8ad3edab68dbdc126a1f086f3d366f43396640c6d320ca8736eb20d50910fb3",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.907220Z"
+  },
+  {
+    "identity_hash": "f718413a8a04a906fa7f2b21f7580b68f39050e1ca389eab9498e1a0c11ea275",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.915777Z"
+  },
+  {
+    "identity_hash": "5cdc719182aaeda708a74d8d06869acf9366b05e2c638b86fd49ba22655482cf",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.922932Z"
+  },
+  {
+    "identity_hash": "a8ad3edab68dbdc126a1f086f3d366f43396640c6d320ca8736eb20d50910fb3",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.930082Z"
+  },
+  {
+    "identity_hash": "1d7f4d84d425a539df256ae9f1800df0ff950e11ecd31919be7c8767979eec12",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.937065Z"
+  },
+  {
+    "identity_hash": "356efbbc7d8f42168d340ce86639674b73af0d5b5160ed030309e4ec42852205",
+    "original_path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "target_path": "archive/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "epistemic_facet": "UNCLASSIFIED",
+    "operational_facet": "Legacy_Artifact",
+    "migration_action": "COPY",
+    "status": "PENDING",
+    "timestamp": "2026-07-09T13:57:52.942233Z"
+  }
+]

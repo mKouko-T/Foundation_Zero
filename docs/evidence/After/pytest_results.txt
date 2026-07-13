@@ -1,0 +1,16 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: C:\Users\maged.ibrahim\Desktop\my\Me\Foundation_Zero
+collected 14 items
+
+src\tests\constitution_tests\test_identity.py ..                         [ 14%]
+src\tests\constitution_tests\test_ledger_invariants.py ...               [ 35%]
+src\tests\constitution_tests\test_provenance.py ..                       [ 50%]
+tests\compatibility_tests\test_identity_contract.py .                    [ 57%]
+tests\compatibility_tests\test_ledger_contract.py .                      [ 64%]
+tests\governance\test_event_immutability.py .                            [ 71%]
+tests\governance\test_repository_economics.py .                          [ 78%]
+tests\test_adr_enforcement.py .                                          [ 85%]
+tests\test_repository_invariants.py ..                                   [100%]
+
+============================= 14 passed in 1.13s ==============================

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Module Manifest",
+  "type": "object",
+  "properties": {
+    "schema_version": {"type": "string", "const": "1.0"},
+    "domain": {"type": "string"},
+    "version": {"type": "string"},
+    "owner": {"type": "string"},
+    "status": {
+      "type": "string",
+      "enum": ["Experimental", "Supported", "Pilot", "Deprecated", "Frozen", "Archived"]
+    },
+    "owns_entities": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "depends_on_modules": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "exports_capabilities": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "fzs_version": {"type": "string"},
+    "ontology_version": {"type": "string"},
+    "changelog": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "version": {"type": "string"},
+          "date": {"type": "string"},
+          "description": {"type": "string"}
+        },
+        "required": ["version", "date", "description"]
+      }
+    }
+  },
+  "required": ["schema_version", "domain", "version", "owner", "status", "owns_entities", "fzs_version", "ontology_version"]
+}

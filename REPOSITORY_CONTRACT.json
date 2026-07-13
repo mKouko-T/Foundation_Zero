@@ -1,4 +1,15 @@
 {
+  "_metadata": {
+    "Authority": "Constitution",
+    "Supersedes": "None",
+    "Lifecycle State": "Permanent",
+    "Last Exercised": "Never",
+    "Reason Exercised": "N/A",
+    "Cost": "1 File",
+    "Benefit": "Defines strict interface contracts for repository execution.",
+    "Maintenance Burden": "Low.",
+    "Deletion Trigger": "Never."
+  },
   "schema_version": "1.0",
   "repository": "Foundation_Zero",
   "version": "1.0",

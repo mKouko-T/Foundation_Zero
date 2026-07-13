@@ -1,0 +1,28 @@
+{
+  "ontology_version": "v1.0",
+  "domain": "Foundation_Zero_Core",
+  "facets": {
+    "epistemic": [
+      "First_Principle",
+      "Observation",
+      "Hypothesis",
+      "Evidence",
+      "Decision",
+      "Question"
+    ],
+    "operational": [
+      "Project",
+      "Specification",
+      "Protocol",
+      "ADR",
+      "Artifact"
+    ]
+  },
+  "uncertainty_states": [
+    "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "UNKNOWN_AMBIGUOUS",
+    "UNKNOWN_CONFLICTING",
+    "UNKNOWN_OUTSIDE_ONTOLOGY",
+    "REVIEW_REQUIRED"
+  ]
+}

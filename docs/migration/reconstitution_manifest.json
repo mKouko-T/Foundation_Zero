@@ -1,0 +1,3263 @@
+[
+  {
+    "identity": "FZ-ee327688-2854-55d6-bed8-7505e0b72339",
+    "original_locator": "Research/Organizational_Science/00_First_Principles_of_OIE.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/00_First_Principles_of_OIE.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.541677+00:00"
+  },
+  {
+    "identity": "FZ-40c857c8-552f-54a9-9510-31c5590e2e8c",
+    "original_locator": "Research/Organizational_Science/00_Glossary_of_Terms.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/00_Glossary_of_Terms.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.547823+00:00"
+  },
+  {
+    "identity": "FZ-d727c8f6-8fc3-510e-bd82-6dc29c92b8e0",
+    "original_locator": "Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.554179+00:00"
+  },
+  {
+    "identity": "FZ-c707f80a-4639-5762-bdf2-cef518e48120",
+    "original_locator": "Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.559035+00:00"
+  },
+  {
+    "identity": "FZ-2614a6b6-f632-5e4d-9e18-0232da098967",
+    "original_locator": "Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.564234+00:00"
+  },
+  {
+    "identity": "FZ-5e7b4924-0de1-59b7-aa2e-86f4347c557c",
+    "original_locator": "Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.567981+00:00"
+  },
+  {
+    "identity": "FZ-715d6da3-2f47-5a86-a75e-a83d11945a25",
+    "original_locator": "Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.574964+00:00"
+  },
+  {
+    "identity": "FZ-85e3f3c3-e37f-5fef-a549-6272909d795e",
+    "original_locator": "Research/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.579949+00:00"
+  },
+  {
+    "identity": "FZ-68271b1b-8209-526a-8d1f-b4755d30171b",
+    "original_locator": "Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.584688+00:00"
+  },
+  {
+    "identity": "FZ-a8223510-a063-5769-babc-dca5465e0098",
+    "original_locator": "Research/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.590950+00:00"
+  },
+  {
+    "identity": "FZ-270ccc0f-842b-5020-b5f0-fb2e104de14c",
+    "original_locator": "Projects/Cornerstone/PROJECT.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/PROJECT.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.597145+00:00"
+  },
+  {
+    "identity": "FZ-3a0bd12e-2177-5fea-a037-258d364496eb",
+    "original_locator": "Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.605598+00:00"
+  },
+  {
+    "identity": "FZ-4478f4b7-fbcc-5fcf-bda3-8e9526e70e6c",
+    "original_locator": "Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.610796+00:00"
+  },
+  {
+    "identity": "FZ-e14b8b56-09ef-5b0b-80e2-2de2755feed3",
+    "original_locator": "Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.616782+00:00"
+  },
+  {
+    "identity": "FZ-3bd8a597-9195-56ca-91cf-2a1037a911cb",
+    "original_locator": "Projects/Cornerstone/Sessions/SESSION_001.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Sessions/SESSION_001.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.624016+00:00"
+  },
+  {
+    "identity": "FZ-8fdb7820-9ca3-5865-b965-d9173525551d",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.631083+00:00"
+  },
+  {
+    "identity": "FZ-2d2e691d-524d-5214-aa4c-9aebd4368e59",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.635994+00:00"
+  },
+  {
+    "identity": "FZ-2d208afc-4eea-59d8-a439-fc1ba7f16697",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.641977+00:00"
+  },
+  {
+    "identity": "FZ-f8fe20e9-364c-5cf9-8489-bf7c677fac4f",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.646977+00:00"
+  },
+  {
+    "identity": "FZ-8214e99f-7c44-5de5-9dc3-ab2347616b33",
+    "original_locator": "Governance/01_Principles/Repository_Constitution_Test.md",
+    "target_locator": "archive/UNMAPPED/Governance/01_Principles/Repository_Constitution_Test.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.656580+00:00"
+  },
+  {
+    "identity": "FZ-f49a19e8-0914-537f-b8f7-0cd905017183",
+    "original_locator": "Governance/01_Principles/Runtime_Contract.md",
+    "target_locator": "archive/UNMAPPED/Governance/01_Principles/Runtime_Contract.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.660851+00:00"
+  },
+  {
+    "identity": "FZ-62a2f143-f4fc-5779-822e-27ec851de3dc",
+    "original_locator": "Governance/02_Registers/Assumptions_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Assumptions_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.665345+00:00"
+  },
+  {
+    "identity": "FZ-469f2a5d-050a-552e-85c3-15964026e530",
+    "original_locator": "Governance/02_Registers/Evidence_Debt_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Evidence_Debt_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.671625+00:00"
+  },
+  {
+    "identity": "FZ-91d37efc-d8f4-523e-93ec-887c53cdeecc",
+    "original_locator": "Governance/02_Registers/Evidence_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Evidence_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.675104+00:00"
+  },
+  {
+    "identity": "FZ-0f6fea0d-e3a8-520a-8a10-23954be7910b",
+    "original_locator": "Governance/02_Registers/Unknowns_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Unknowns_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.680124+00:00"
+  },
+  {
+    "identity": "FZ-5fe54c6f-59d6-52c0-ab29-3341295a1987",
+    "original_locator": "Governance/03_Quality/QG-001_Decision_Quality.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-001_Decision_Quality.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.684322+00:00"
+  },
+  {
+    "identity": "FZ-0eb56ca5-f698-513d-95a4-9b2f48b8ea9f",
+    "original_locator": "Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.690307+00:00"
+  },
+  {
+    "identity": "FZ-1c8f4ae0-97ad-5f01-b8b7-3a22782cf741",
+    "original_locator": "Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.694639+00:00"
+  },
+  {
+    "identity": "FZ-773e3a98-a3b3-5fd0-bbee-2998a58e2bb4",
+    "original_locator": "Governance/03_Quality/QG-004_Operational_Brief.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-004_Operational_Brief.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.698630+00:00"
+  },
+  {
+    "identity": "FZ-083c2279-3522-506e-af21-64fa8ad8d49b",
+    "original_locator": "Governance/03_Quality/QG-005_Canon_Addition.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-005_Canon_Addition.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.703895+00:00"
+  },
+  {
+    "identity": "FZ-f8ce27ce-d105-5f43-93bc-924a5054473c",
+    "original_locator": "Governance/04_Dictionaries/Glossary.md",
+    "target_locator": "archive/UNMAPPED/Governance/04_Dictionaries/Glossary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.708881+00:00"
+  },
+  {
+    "identity": "FZ-df5e7117-f2da-5eea-87a8-769678961c2f",
+    "original_locator": "Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "target_locator": "archive/UNMAPPED/Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.712151+00:00"
+  },
+  {
+    "identity": "FZ-8645e535-0d05-558e-8e28-ba0896828c41",
+    "original_locator": "Governance/05_Ledgers/Decision_Ledger.md",
+    "target_locator": "archive/UNMAPPED/Governance/05_Ledgers/Decision_Ledger.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.717516+00:00"
+  },
+  {
+    "identity": "FZ-34975e88-5684-57f8-893b-a62c757cdbe2",
+    "original_locator": "Governance/07_Reviews/Canon_Evolution_Log.md",
+    "target_locator": "archive/UNMAPPED/Governance/07_Reviews/Canon_Evolution_Log.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.723237+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/blind/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/blind/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.728831+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/chunks/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/chunks/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.729832+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/manifests/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/manifests/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.731797+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/raw/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/raw/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.733886+00:00"
+  },
+  {
+    "identity": "FZ-33507905-ef2d-5d8e-94f0-179c762f6a2b",
+    "original_locator": "Archive/Historical/Phase_0_L0X/README.md",
+    "target_locator": "archive/UNMAPPED/Archive/Historical/Phase_0_L0X/README.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.739766+00:00"
+  },
+  {
+    "identity": "FZ-fc451e05-f112-5ef8-aea8-2f70bce6f6f0",
+    "original_locator": "Cemetery/00_Entrance.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/00_Entrance.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.744919+00:00"
+  },
+  {
+    "identity": "FZ-c69b3977-2dc1-552e-8227-05779d5e2560",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.753675+00:00"
+  },
+  {
+    "identity": "FZ-5958bdeb-264e-5115-b12e-50b39259b486",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.758591+00:00"
+  },
+  {
+    "identity": "FZ-11394ae2-e8a7-5cff-8c25-0660a1951043",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.763578+00:00"
+  },
+  {
+    "identity": "FZ-9b4d9816-fbac-5626-bcdc-fee3ca5da6e4",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.769225+00:00"
+  },
+  {
+    "identity": "FZ-852e5982-90a1-51e0-8fc6-c08ebf6bd338",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.776205+00:00"
+  },
+  {
+    "identity": "FZ-b58f46be-6ccf-5e64-ba25-e963842d9024",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.781192+00:00"
+  },
+  {
+    "identity": "FZ-091107a0-6236-5ad4-9491-2ec190653e65",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.787176+00:00"
+  },
+  {
+    "identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.794157+00:00"
+  },
+  {
+    "identity": "FZ-df7e4b63-c26f-5cef-b534-0ea13f99b5e2",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.799143+00:00"
+  },
+  {
+    "identity": "FZ-84d883d9-885e-53c3-a6b6-ca3d9dae4da1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.806409+00:00"
+  },
+  {
+    "identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.812243+00:00"
+  },
+  {
+    "identity": "FZ-b675bb06-85c9-5531-83b8-6ffe6028bd2a",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.817227+00:00"
+  },
+  {
+    "identity": "FZ-bf163931-8e9a-546b-b484-6aadf1a998cd",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "PLANNED",
+    "justification": {
+      "reason": "Physical discovery. Ontology classification deferred.",
+      "matched_rule": "Fallback_Inventory",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:17:03.824373+00:00"
+  },
+  {
+    "identity": "FZ-ee327688-2854-55d6-bed8-7505e0b72339",
+    "original_locator": "Research/Organizational_Science/00_First_Principles_of_OIE.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/00_First_Principles_of_OIE.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.495566+00:00"
+  },
+  {
+    "identity": "FZ-40c857c8-552f-54a9-9510-31c5590e2e8c",
+    "original_locator": "Research/Organizational_Science/00_Glossary_of_Terms.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/00_Glossary_of_Terms.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.504820+00:00"
+  },
+  {
+    "identity": "FZ-d727c8f6-8fc3-510e-bd82-6dc29c92b8e0",
+    "original_locator": "Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.517136+00:00"
+  },
+  {
+    "identity": "FZ-c707f80a-4639-5762-bdf2-cef518e48120",
+    "original_locator": "Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.530364+00:00"
+  },
+  {
+    "identity": "FZ-2614a6b6-f632-5e4d-9e18-0232da098967",
+    "original_locator": "Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.542529+00:00"
+  },
+  {
+    "identity": "FZ-5e7b4924-0de1-59b7-aa2e-86f4347c557c",
+    "original_locator": "Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.555299+00:00"
+  },
+  {
+    "identity": "FZ-715d6da3-2f47-5a86-a75e-a83d11945a25",
+    "original_locator": "Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.566465+00:00"
+  },
+  {
+    "identity": "FZ-85e3f3c3-e37f-5fef-a549-6272909d795e",
+    "original_locator": "Research/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_005_Capability_Genome.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.577745+00:00"
+  },
+  {
+    "identity": "FZ-68271b1b-8209-526a-8d1f-b4755d30171b",
+    "original_locator": "Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.589076+00:00"
+  },
+  {
+    "identity": "FZ-a8223510-a063-5769-babc-dca5465e0098",
+    "original_locator": "Research/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "target_locator": "archive/UNMAPPED/Research/Organizational_Science/Observation_001_The_Intervention_Budget.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.603513+00:00"
+  },
+  {
+    "identity": "FZ-270ccc0f-842b-5020-b5f0-fb2e104de14c",
+    "original_locator": "Projects/Cornerstone/PROJECT.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/PROJECT.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.613781+00:00"
+  },
+  {
+    "identity": "FZ-3a0bd12e-2177-5fea-a037-258d364496eb",
+    "original_locator": "Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.622938+00:00"
+  },
+  {
+    "identity": "FZ-4478f4b7-fbcc-5fcf-bda3-8e9526e70e6c",
+    "original_locator": "Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.634092+00:00"
+  },
+  {
+    "identity": "FZ-e14b8b56-09ef-5b0b-80e2-2de2755feed3",
+    "original_locator": "Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.645049+00:00"
+  },
+  {
+    "identity": "FZ-3bd8a597-9195-56ca-91cf-2a1037a911cb",
+    "original_locator": "Projects/Cornerstone/Sessions/SESSION_001.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Sessions/SESSION_001.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.661358+00:00"
+  },
+  {
+    "identity": "FZ-8fdb7820-9ca3-5865-b965-d9173525551d",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.671518+00:00"
+  },
+  {
+    "identity": "FZ-2d2e691d-524d-5214-aa4c-9aebd4368e59",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.683672+00:00"
+  },
+  {
+    "identity": "FZ-2d208afc-4eea-59d8-a439-fc1ba7f16697",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.696637+00:00"
+  },
+  {
+    "identity": "FZ-f8fe20e9-364c-5cf9-8489-bf7c677fac4f",
+    "original_locator": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "target_locator": "archive/UNMAPPED/Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.708607+00:00"
+  },
+  {
+    "identity": "FZ-8214e99f-7c44-5de5-9dc3-ab2347616b33",
+    "original_locator": "Governance/01_Principles/Repository_Constitution_Test.md",
+    "target_locator": "archive/UNMAPPED/Governance/01_Principles/Repository_Constitution_Test.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.719744+00:00"
+  },
+  {
+    "identity": "FZ-f49a19e8-0914-537f-b8f7-0cd905017183",
+    "original_locator": "Governance/01_Principles/Runtime_Contract.md",
+    "target_locator": "archive/UNMAPPED/Governance/01_Principles/Runtime_Contract.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.731064+00:00"
+  },
+  {
+    "identity": "FZ-62a2f143-f4fc-5779-822e-27ec851de3dc",
+    "original_locator": "Governance/02_Registers/Assumptions_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Assumptions_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.741040+00:00"
+  },
+  {
+    "identity": "FZ-469f2a5d-050a-552e-85c3-15964026e530",
+    "original_locator": "Governance/02_Registers/Evidence_Debt_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Evidence_Debt_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.752187+00:00"
+  },
+  {
+    "identity": "FZ-91d37efc-d8f4-523e-93ec-887c53cdeecc",
+    "original_locator": "Governance/02_Registers/Evidence_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Evidence_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.763327+00:00"
+  },
+  {
+    "identity": "FZ-0f6fea0d-e3a8-520a-8a10-23954be7910b",
+    "original_locator": "Governance/02_Registers/Unknowns_Register.md",
+    "target_locator": "archive/UNMAPPED/Governance/02_Registers/Unknowns_Register.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.771482+00:00"
+  },
+  {
+    "identity": "FZ-5fe54c6f-59d6-52c0-ab29-3341295a1987",
+    "original_locator": "Governance/03_Quality/QG-001_Decision_Quality.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-001_Decision_Quality.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.784613+00:00"
+  },
+  {
+    "identity": "FZ-0eb56ca5-f698-513d-95a4-9b2f48b8ea9f",
+    "original_locator": "Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-002_Evidence_Quality.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.795586+00:00"
+  },
+  {
+    "identity": "FZ-1c8f4ae0-97ad-5f01-b8b7-3a22782cf741",
+    "original_locator": "Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-003_Repository_Synchronization.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.806555+00:00"
+  },
+  {
+    "identity": "FZ-773e3a98-a3b3-5fd0-bbee-2998a58e2bb4",
+    "original_locator": "Governance/03_Quality/QG-004_Operational_Brief.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-004_Operational_Brief.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.819520+00:00"
+  },
+  {
+    "identity": "FZ-083c2279-3522-506e-af21-64fa8ad8d49b",
+    "original_locator": "Governance/03_Quality/QG-005_Canon_Addition.md",
+    "target_locator": "archive/UNMAPPED/Governance/03_Quality/QG-005_Canon_Addition.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.830491+00:00"
+  },
+  {
+    "identity": "FZ-f8ce27ce-d105-5f43-93bc-924a5054473c",
+    "original_locator": "Governance/04_Dictionaries/Glossary.md",
+    "target_locator": "archive/UNMAPPED/Governance/04_Dictionaries/Glossary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.841596+00:00"
+  },
+  {
+    "identity": "FZ-df5e7117-f2da-5eea-87a8-769678961c2f",
+    "original_locator": "Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "target_locator": "archive/UNMAPPED/Governance/04_Dictionaries/Metrics_Dictionary.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.851560+00:00"
+  },
+  {
+    "identity": "FZ-8645e535-0d05-558e-8e28-ba0896828c41",
+    "original_locator": "Governance/05_Ledgers/Decision_Ledger.md",
+    "target_locator": "archive/UNMAPPED/Governance/05_Ledgers/Decision_Ledger.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.862531+00:00"
+  },
+  {
+    "identity": "FZ-34975e88-5684-57f8-893b-a62c757cdbe2",
+    "original_locator": "Governance/07_Reviews/Canon_Evolution_Log.md",
+    "target_locator": "archive/UNMAPPED/Governance/07_Reviews/Canon_Evolution_Log.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.871687+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/blind/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/blind/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.879666+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/chunks/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/chunks/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.883828+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/manifests/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/manifests/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.888813+00:00"
+  },
+  {
+    "identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "original_locator": "Archive/raw/.gitkeep",
+    "target_locator": "archive/UNMAPPED/Archive/raw/.gitkeep",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.895794+00:00"
+  },
+  {
+    "identity": "FZ-33507905-ef2d-5d8e-94f0-179c762f6a2b",
+    "original_locator": "Archive/Historical/Phase_0_L0X/README.md",
+    "target_locator": "archive/UNMAPPED/Archive/Historical/Phase_0_L0X/README.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.912089+00:00"
+  },
+  {
+    "identity": "FZ-fc451e05-f112-5ef8-aea8-2f70bce6f6f0",
+    "original_locator": "Cemetery/00_Entrance.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/00_Entrance.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.921248+00:00"
+  },
+  {
+    "identity": "FZ-c69b3977-2dc1-552e-8227-05779d5e2560",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.933397+00:00"
+  },
+  {
+    "identity": "FZ-5958bdeb-264e-5115-b12e-50b39259b486",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.944366+00:00"
+  },
+  {
+    "identity": "FZ-11394ae2-e8a7-5cff-8c25-0660a1951043",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.955539+00:00"
+  },
+  {
+    "identity": "FZ-9b4d9816-fbac-5626-bcdc-fee3ca5da6e4",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:06.980061+00:00"
+  },
+  {
+    "identity": "FZ-852e5982-90a1-51e0-8fc6-c08ebf6bd338",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.008353+00:00"
+  },
+  {
+    "identity": "FZ-b58f46be-6ccf-5e64-ba25-e963842d9024",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.021570+00:00"
+  },
+  {
+    "identity": "FZ-091107a0-6236-5ad4-9491-2ec190653e65",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.038526+00:00"
+  },
+  {
+    "identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.053659+00:00"
+  },
+  {
+    "identity": "FZ-df7e4b63-c26f-5cef-b534-0ea13f99b5e2",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.081243+00:00"
+  },
+  {
+    "identity": "FZ-84d883d9-885e-53c3-a6b6-ca3d9dae4da1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.100774+00:00"
+  },
+  {
+    "identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.127736+00:00"
+  },
+  {
+    "identity": "FZ-b675bb06-85c9-5531-83b8-6ffe6028bd2a",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.146907+00:00"
+  },
+  {
+    "identity": "FZ-bf163931-8e9a-546b-b484-6aadf1a998cd",
+    "original_locator": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "target_locator": "archive/UNMAPPED/Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md",
+    "epistemic_facet": "UNKNOWN",
+    "operational_facet": "UNKNOWN",
+    "status": "EXECUTED",
+    "justification": {
+      "reason": "Physical copy verified against cryptographic hash.",
+      "matched_rule": "Information_Conservation",
+      "confidence": 1.0,
+      "classifier_version": "v1.0"
+    },
+    "timestamp": "2026-07-11T08:18:07.164237+00:00"
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-f76f65b2-184b-4a7d-89b3-e318eb337198",
+    "target_identity": "FZ-ee327688-2854-55d6-bed8-7505e0b72339",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/00_First_Principles_of_OIE.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-dacf5c31-950a-4336-a971-7025365d8c10",
+    "target_identity": "FZ-ee327688-2854-55d6-bed8-7505e0b72339",
+    "epistemic_facet": "First_Principle",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-f76f65b2-184b-4a7d-89b3-e318eb337198"
+    ],
+    "rejected_candidates": {
+      "Observation": 0.05,
+      "Hypothesis": 0.05,
+      "Evidence": 0.05,
+      "Decision": 0.05,
+      "Question": 0.05
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.9,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.452556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-3bc43aa5-815d-408e-986e-d465dcf2a688",
+    "target_identity": "FZ-40c857c8-552f-54a9-9510-31c5590e2e8c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/00_Glossary_of_Terms.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-933aac6d-528f-46bd-b80d-ea5f5b9b3456",
+    "target_identity": "FZ-40c857c8-552f-54a9-9510-31c5590e2e8c",
+    "epistemic_facet": "REVIEW_REQUIRED",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-3bc43aa5-815d-408e-986e-d465dcf2a688"
+    ],
+    "rejected_candidates": {
+      "Hypothesis": 0.2,
+      "First_Principle": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.4,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.452556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-a64f4c8a-2011-4875-9600-f29d57e1f484",
+    "target_identity": "FZ-d727c8f6-8fc3-510e-bd82-6dc29c92b8e0",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Book_0_Toward_a_Science_of_Organizations.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-0c38a9f5-dd24-457b-91fd-07a4de534f82",
+    "target_identity": "FZ-d727c8f6-8fc3-510e-bd82-6dc29c92b8e0",
+    "epistemic_facet": "First_Principle",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-a64f4c8a-2011-4875-9600-f29d57e1f484"
+    ],
+    "rejected_candidates": {
+      "Observation": 0.05,
+      "Hypothesis": 0.05,
+      "Evidence": 0.05,
+      "Decision": 0.05,
+      "Question": 0.05
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.9,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.452556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-6d355290-6c57-4ed3-9f17-72253fd0d7e0",
+    "target_identity": "FZ-c707f80a-4639-5762-bdf2-cef518e48120",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_001_Universal_Organizational_Operating_Model.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c0b5bd24-549e-42a8-b883-ea9694be9b8c",
+    "target_identity": "FZ-c707f80a-4639-5762-bdf2-cef518e48120",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-6d355290-6c57-4ed3-9f17-72253fd0d7e0"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.452556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-1d575e2e-473a-452d-a207-bf72d89e73c8",
+    "target_identity": "FZ-2614a6b6-f632-5e4d-9e18-0232da098967",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_002_Capability_Engineering_Template.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-62959d30-c7c3-478f-9b1b-50db297f6982",
+    "target_identity": "FZ-2614a6b6-f632-5e4d-9e18-0232da098967",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-1d575e2e-473a-452d-a207-bf72d89e73c8"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.452556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-fa024c4e-5882-4cbd-8d47-410a79e202ee",
+    "target_identity": "FZ-5e7b4924-0de1-59b7-aa2e-86f4347c557c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_003_Four_State_Architecture.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.452556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c6e6a1be-3ee2-4de4-86c6-67eeb5daf993",
+    "target_identity": "FZ-5e7b4924-0de1-59b7-aa2e-86f4347c557c",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-fa024c4e-5882-4cbd-8d47-410a79e202ee"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-4318acb5-6ff4-450d-90e4-5d8d5addb824",
+    "target_identity": "FZ-715d6da3-2f47-5a86-a75e-a83d11945a25",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_004_Organizational_Thermodynamics.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-b20dda79-c3fa-4461-9b5a-1682b750557b",
+    "target_identity": "FZ-715d6da3-2f47-5a86-a75e-a83d11945a25",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-4318acb5-6ff4-450d-90e4-5d8d5addb824"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-0ae5d157-ac59-46a1-8106-b1945f6c574c",
+    "target_identity": "FZ-85e3f3c3-e37f-5fef-a549-6272909d795e",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_005_Capability_Genome.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-4947dd92-987f-43d3-8d19-4fe1e00928c0",
+    "target_identity": "FZ-85e3f3c3-e37f-5fef-a549-6272909d795e",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-0ae5d157-ac59-46a1-8106-b1945f6c574c"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-3f370e73-6fa9-436d-86af-b3fbe3b64882",
+    "target_identity": "FZ-68271b1b-8209-526a-8d1f-b4755d30171b",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Hypothesis_006_AI_as_Organizational_Actor.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-549d0b9c-e022-4201-b110-7276a18e1d39",
+    "target_identity": "FZ-68271b1b-8209-526a-8d1f-b4755d30171b",
+    "epistemic_facet": "Hypothesis",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-3f370e73-6fa9-436d-86af-b3fbe3b64882"
+    ],
+    "rejected_candidates": {
+      "First_Principle": 0.1,
+      "Observation": 0.1,
+      "Evidence": 0.1,
+      "Decision": 0.1,
+      "Question": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.85,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-a3af94b3-1e97-4f7a-a5d9-ec9f6afb4d4b",
+    "target_identity": "FZ-a8223510-a063-5769-babc-dca5465e0098",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Research/Organizational_Science/Observation_001_The_Intervention_Budget.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-a5ad5690-bef4-4eab-be82-5a797eaa0cbc",
+    "target_identity": "FZ-a8223510-a063-5769-babc-dca5465e0098",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-a3af94b3-1e97-4f7a-a5d9-ec9f6afb4d4b"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-722574eb-004e-4521-a15e-f424c4dbbe72",
+    "target_identity": "FZ-270ccc0f-842b-5020-b5f0-fb2e104de14c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/PROJECT.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-928e5404-7e26-4524-aa2b-da313659b23c",
+    "target_identity": "FZ-270ccc0f-842b-5020-b5f0-fb2e104de14c",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-722574eb-004e-4521-a15e-f424c4dbbe72"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-8fc0aeeb-ac71-4748-aefc-b7230d6ecd02",
+    "target_identity": "FZ-3a0bd12e-2177-5fea-a037-258d364496eb",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Decisions/DECISION_001_Operational_Intelligence_Boundary.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-93f9ad44-4c52-4d6a-99ad-4f7f76671906",
+    "target_identity": "FZ-3a0bd12e-2177-5fea-a037-258d364496eb",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-8fc0aeeb-ac71-4748-aefc-b7230d6ecd02"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-45dadcec-a60f-4352-856c-4e7cb749d58f",
+    "target_identity": "FZ-4478f4b7-fbcc-5fcf-bda3-8e9526e70e6c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Decisions/DECISION_002_Phase_0_Exit_Criterion.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-6cb948eb-898a-4deb-a836-3cb9198f8ba5",
+    "target_identity": "FZ-4478f4b7-fbcc-5fcf-bda3-8e9526e70e6c",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-45dadcec-a60f-4352-856c-4e7cb749d58f"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-13421c21-8f1e-4197-94df-a66bc9639096",
+    "target_identity": "FZ-e14b8b56-09ef-5b0b-80e2-2de2755feed3",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Deliverables/Cornerstone_Sales_Operational_Intelligence_Brief_v1.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-4cbc686a-8b0e-4d87-8db1-9f03c4bea03c",
+    "target_identity": "FZ-e14b8b56-09ef-5b0b-80e2-2de2755feed3",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-13421c21-8f1e-4197-94df-a66bc9639096"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-24b71a89-7758-4c50-ba38-3ce290c29648",
+    "target_identity": "FZ-3bd8a597-9195-56ca-91cf-2a1037a911cb",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Sessions/SESSION_001.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-0dc0953b-6ccb-4014-a45d-55c0d9567980",
+    "target_identity": "FZ-3bd8a597-9195-56ca-91cf-2a1037a911cb",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-24b71a89-7758-4c50-ba38-3ce290c29648"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.453556+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-00248291-3c79-411f-b786-8525c9a156fa",
+    "target_identity": "FZ-8fdb7820-9ca3-5865-b965-d9173525551d",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc0_Why_Now.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.453556+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-9cf7f033-4509-46f2-831d-42c4ae4aa4c6",
+    "target_identity": "FZ-8fdb7820-9ca3-5865-b965-d9173525551d",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-00248291-3c79-411f-b786-8525c9a156fa"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-3996c451-3f1d-45a1-a4b1-52638a7af7df",
+    "target_identity": "FZ-2d2e691d-524d-5214-aa4c-9aebd4368e59",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc1_Executive_Brief.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-e397671b-9a1f-4da3-8c95-e5757805cc3c",
+    "target_identity": "FZ-2d2e691d-524d-5214-aa4c-9aebd4368e59",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-3996c451-3f1d-45a1-a4b1-52638a7af7df"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-5194beee-12a2-4c04-a4b9-78a985f38d11",
+    "target_identity": "FZ-2d208afc-4eea-59d8-a439-fc1ba7f16697",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc2_Business_Case.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-f622b73c-14d6-4e04-ae03-bbb950525097",
+    "target_identity": "FZ-2d208afc-4eea-59d8-a439-fc1ba7f16697",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-5194beee-12a2-4c04-a4b9-78a985f38d11"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-3a79815c-4f2d-461d-82ac-f08af3ccc8f0",
+    "target_identity": "FZ-f8fe20e9-364c-5cf9-8489-bf7c677fac4f",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Projects/Cornerstone/Deliverables/Archive_Phase3_Proposals/OIB_001_Doc3_Capability_Charter.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-8d90f20b-c646-4615-9b5c-5b58c0909c39",
+    "target_identity": "FZ-f8fe20e9-364c-5cf9-8489-bf7c677fac4f",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "Project",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-3a79815c-4f2d-461d-82ac-f08af3ccc8f0"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-ea6286d6-d7a2-4eea-b67e-c7382faeddf6",
+    "target_identity": "FZ-8214e99f-7c44-5de5-9dc3-ab2347616b33",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/01_Principles/Repository_Constitution_Test.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-f116cceb-8a84-4ef4-a44b-0891e576228a",
+    "target_identity": "FZ-8214e99f-7c44-5de5-9dc3-ab2347616b33",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-ea6286d6-d7a2-4eea-b67e-c7382faeddf6"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-f84c2fac-d474-42a9-acf6-be4029d5d4a8",
+    "target_identity": "FZ-f49a19e8-0914-537f-b8f7-0cd905017183",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/01_Principles/Runtime_Contract.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-19d8b129-ce7c-47b0-a30c-ef380eb3ce74",
+    "target_identity": "FZ-f49a19e8-0914-537f-b8f7-0cd905017183",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-f84c2fac-d474-42a9-acf6-be4029d5d4a8"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-347909a2-9f27-402a-9573-5e0067c1569d",
+    "target_identity": "FZ-62a2f143-f4fc-5779-822e-27ec851de3dc",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/02_Registers/Assumptions_Register.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c2f112e7-35cf-466e-8a6c-1742c162b190",
+    "target_identity": "FZ-62a2f143-f4fc-5779-822e-27ec851de3dc",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-347909a2-9f27-402a-9573-5e0067c1569d"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-3f507650-c455-423f-b61a-67579ec3fe01",
+    "target_identity": "FZ-469f2a5d-050a-552e-85c3-15964026e530",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/02_Registers/Evidence_Debt_Register.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-18df69f9-d08c-4048-8257-0c1e49133809",
+    "target_identity": "FZ-469f2a5d-050a-552e-85c3-15964026e530",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-3f507650-c455-423f-b61a-67579ec3fe01"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-a7f06aae-66b7-49f7-8423-6b31804f6e51",
+    "target_identity": "FZ-91d37efc-d8f4-523e-93ec-887c53cdeecc",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/02_Registers/Evidence_Register.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-768de875-4d03-48bc-8f34-04c312d5a209",
+    "target_identity": "FZ-91d37efc-d8f4-523e-93ec-887c53cdeecc",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-a7f06aae-66b7-49f7-8423-6b31804f6e51"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.454553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-df8f5b86-587d-47d2-8821-8fe2dac0026a",
+    "target_identity": "FZ-0f6fea0d-e3a8-520a-8a10-23954be7910b",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/02_Registers/Unknowns_Register.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.454553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-00d7d5d8-22bd-45c3-8932-972f3f57d0f1",
+    "target_identity": "FZ-0f6fea0d-e3a8-520a-8a10-23954be7910b",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-df8f5b86-587d-47d2-8821-8fe2dac0026a"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-81f4dd73-6128-4103-802e-090447096b34",
+    "target_identity": "FZ-5fe54c6f-59d6-52c0-ab29-3341295a1987",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/03_Quality/QG-001_Decision_Quality.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-dc9343cb-49ff-4bf5-903e-c79ce331feac",
+    "target_identity": "FZ-5fe54c6f-59d6-52c0-ab29-3341295a1987",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-81f4dd73-6128-4103-802e-090447096b34"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-2d3badd5-c456-40c6-b9fc-4c300b5a83fb",
+    "target_identity": "FZ-0eb56ca5-f698-513d-95a4-9b2f48b8ea9f",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/03_Quality/QG-002_Evidence_Quality.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-3c92cbe1-a84d-4f33-bf9f-5d6c6a0f76b1",
+    "target_identity": "FZ-0eb56ca5-f698-513d-95a4-9b2f48b8ea9f",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-2d3badd5-c456-40c6-b9fc-4c300b5a83fb"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-a28feb00-0a79-4993-a1d3-9c1c4a0f0a9e",
+    "target_identity": "FZ-1c8f4ae0-97ad-5f01-b8b7-3a22782cf741",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/03_Quality/QG-003_Repository_Synchronization.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-f010ab82-2234-447b-8c70-aa78570837cb",
+    "target_identity": "FZ-1c8f4ae0-97ad-5f01-b8b7-3a22782cf741",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-a28feb00-0a79-4993-a1d3-9c1c4a0f0a9e"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-85872814-8c48-4028-a1d5-19248a3d41f9",
+    "target_identity": "FZ-773e3a98-a3b3-5fd0-bbee-2998a58e2bb4",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/03_Quality/QG-004_Operational_Brief.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c9e7a4c2-1460-4b94-b928-7d4ddc375bd1",
+    "target_identity": "FZ-773e3a98-a3b3-5fd0-bbee-2998a58e2bb4",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-85872814-8c48-4028-a1d5-19248a3d41f9"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-bbc0667c-75fa-4e21-85c9-dd58b3436af6",
+    "target_identity": "FZ-083c2279-3522-506e-af21-64fa8ad8d49b",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/03_Quality/QG-005_Canon_Addition.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-ddfb62e0-516c-40c7-b83f-b779f61e3ce6",
+    "target_identity": "FZ-083c2279-3522-506e-af21-64fa8ad8d49b",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-bbc0667c-75fa-4e21-85c9-dd58b3436af6"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-e55ea8e7-cdda-4876-8635-5e4de1241f3b",
+    "target_identity": "FZ-f8ce27ce-d105-5f43-93bc-924a5054473c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/04_Dictionaries/Glossary.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-53a3f3bd-7dff-44e5-9d66-9ea05fb3e1c7",
+    "target_identity": "FZ-f8ce27ce-d105-5f43-93bc-924a5054473c",
+    "epistemic_facet": "REVIEW_REQUIRED",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-e55ea8e7-cdda-4876-8635-5e4de1241f3b"
+    ],
+    "rejected_candidates": {
+      "Hypothesis": 0.2,
+      "First_Principle": 0.1
+    },
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.4,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-eb6c89a8-24cf-4d3c-9cbc-30721c3c1449",
+    "target_identity": "FZ-df5e7117-f2da-5eea-87a8-769678961c2f",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/04_Dictionaries/Metrics_Dictionary.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c3834e91-7c94-4bb3-87d7-40416ab09ad9",
+    "target_identity": "FZ-df5e7117-f2da-5eea-87a8-769678961c2f",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-eb6c89a8-24cf-4d3c-9cbc-30721c3c1449"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-44ff7f0e-410f-4ead-a10c-ec8ccbfdba17",
+    "target_identity": "FZ-8645e535-0d05-558e-8e28-ba0896828c41",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/05_Ledgers/Decision_Ledger.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-219300c2-8226-4f39-990a-28db4467d015",
+    "target_identity": "FZ-8645e535-0d05-558e-8e28-ba0896828c41",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-44ff7f0e-410f-4ead-a10c-ec8ccbfdba17"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-5fc4853e-b5b3-4d3e-a245-56d7b4c7d246",
+    "target_identity": "FZ-34975e88-5684-57f8-893b-a62c757cdbe2",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Governance/07_Reviews/Canon_Evolution_Log.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-254f6312-9d1e-49d4-9586-60f6fffb3854",
+    "target_identity": "FZ-34975e88-5684-57f8-893b-a62c757cdbe2",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-5fc4853e-b5b3-4d3e-a245-56d7b4c7d246"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.455553+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-1f9f6b3a-6f85-4121-803a-f5fccc4c2df2",
+    "target_identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Archive/raw/.gitkeep"
+    },
+    "timestamp": "2026-07-11T09:05:50.455553+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-d04072c0-1663-4538-a31b-1cdf53c27409",
+    "target_identity": "FZ-601d1428-1903-5260-9b76-515a93e2930c",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-1f9f6b3a-6f85-4121-803a-f5fccc4c2df2"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-6fcc232d-25d0-485c-a12b-fbcc3fc0bd31",
+    "target_identity": "FZ-33507905-ef2d-5d8e-94f0-179c762f6a2b",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Archive/Historical/Phase_0_L0X/README.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-f091c627-0413-4455-b1e2-3feaee972f14",
+    "target_identity": "FZ-33507905-ef2d-5d8e-94f0-179c762f6a2b",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-6fcc232d-25d0-485c-a12b-fbcc3fc0bd31"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-d8b8be84-1284-42aa-b884-5931009084de",
+    "target_identity": "FZ-fc451e05-f112-5ef8-aea8-2f70bce6f6f0",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/00_Entrance.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-6ee41d48-c6ed-45c1-89f0-eb4794cd74bb",
+    "target_identity": "FZ-fc451e05-f112-5ef8-aea8-2f70bce6f6f0",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-d8b8be84-1284-42aa-b884-5931009084de"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-ce3d1b17-4602-4c17-817b-88d5cc4feacb",
+    "target_identity": "FZ-c69b3977-2dc1-552e-8227-05779d5e2560",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_Axioms.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-6ee08af2-0c3f-4d93-9144-adb4be4dd18d",
+    "target_identity": "FZ-c69b3977-2dc1-552e-8227-05779d5e2560",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-ce3d1b17-4602-4c17-817b-88d5cc4feacb"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-07fbaec7-fbaa-4035-82e7-c1e7274c932e",
+    "target_identity": "FZ-5958bdeb-264e-5115-b12e-50b39259b486",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/A_The_Seven_Pillars.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-729215e0-529a-4dd8-9bfa-d7cbef63f21e",
+    "target_identity": "FZ-5958bdeb-264e-5115-b12e-50b39259b486",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-07fbaec7-fbaa-4035-82e7-c1e7274c932e"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-508c449d-9572-4e79-8176-97db66381a52",
+    "target_identity": "FZ-11394ae2-e8a7-5cff-8c25-0660a1951043",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/B_Constitution.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-fd6dffeb-b891-4c5e-ac11-8837bcce54ed",
+    "target_identity": "FZ-11394ae2-e8a7-5cff-8c25-0660a1951043",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-508c449d-9572-4e79-8176-97db66381a52"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-87b83f81-d4c5-49c7-ba78-fdc91b7323f2",
+    "target_identity": "FZ-9b4d9816-fbac-5626-bcdc-fee3ca5da6e4",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Foundational_Principles.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-3d950bb3-d54e-44ef-9096-c3f4e699b28d",
+    "target_identity": "FZ-9b4d9816-fbac-5626-bcdc-fee3ca5da6e4",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-87b83f81-d4c5-49c7-ba78-fdc91b7323f2"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-319b5b3e-2392-4ac7-bc8a-949ec42e581f",
+    "target_identity": "FZ-852e5982-90a1-51e0-8fc6-c08ebf6bd338",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/C_Principles.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-0018fa65-461b-4b50-9359-2db3376f7eb6",
+    "target_identity": "FZ-852e5982-90a1-51e0-8fc6-c08ebf6bd338",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-319b5b3e-2392-4ac7-bc8a-949ec42e581f"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-1ab1ab86-d0b9-46f1-a115-0d98663040ab",
+    "target_identity": "FZ-b58f46be-6ccf-5e64-ba25-e963842d9024",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/D_Engineering_Standards.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-c09c4319-2342-483d-a905-e7b935bdac82",
+    "target_identity": "FZ-b58f46be-6ccf-5e64-ba25-e963842d9024",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-1ab1ab86-d0b9-46f1-a115-0d98663040ab"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-cb4a9ea8-a694-4850-a4e0-36867d2f81cb",
+    "target_identity": "FZ-091107a0-6236-5ad4-9491-2ec190653e65",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/E_Governance_Standards.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-16b598c9-7398-43f4-866c-1d5da807c8b1",
+    "target_identity": "FZ-091107a0-6236-5ad4-9491-2ec190653e65",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-cb4a9ea8-a694-4850-a4e0-36867d2f81cb"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.456548+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-9e66669d-2ade-4a98-a819-99141d6731cc",
+    "target_identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-000_Canonical_Artifact_Specification.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.456548+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-3bfa8fd6-4715-423e-81de-353fa32ac8e9",
+    "target_identity": "FZ-f3030b49-6904-568e-9a04-541c8bb910f1",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-9e66669d-2ade-4a98-a819-99141d6731cc"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.457546+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-79184985-d84e-46b1-b422-fa8a64045e39",
+    "target_identity": "FZ-df7e4b63-c26f-5cef-b534-0ea13f99b5e2",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Constitutional_Stack/F0-001_The_Constitution.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.457546+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-47c1232c-56d2-4a58-bbe5-7e1f77058e9c",
+    "target_identity": "FZ-df7e4b63-c26f-5cef-b534-0ea13f99b5e2",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-79184985-d84e-46b1-b422-fa8a64045e39"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.457546+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-5428e3b6-6fc9-4a65-948b-f00ba06d9719",
+    "target_identity": "FZ-84d883d9-885e-53c3-a6b6-ca3d9dae4da1",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/00_Genesis_Assets/G-001_The_Foundation_Method.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.457546+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-b3ba4378-0b1d-4ef7-bc23-a5d8c7481da0",
+    "target_identity": "FZ-84d883d9-885e-53c3-a6b6-ca3d9dae4da1",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-5428e3b6-6fc9-4a65-948b-f00ba06d9719"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.457546+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-a5d51942-85c0-4acd-9709-b0a7d5ea6cdd",
+    "target_identity": "FZ-b675bb06-85c9-5531-83b8-6ffe6028bd2a",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-001_Foundation_Method_Charter.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.457546+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-a66bbf00-a4cd-4fe6-a982-c983429d18d9",
+    "target_identity": "FZ-b675bb06-85c9-5531-83b8-6ffe6028bd2a",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-a5d51942-85c0-4acd-9709-b0a7d5ea6cdd"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.457546+00:00"
+    }
+  },
+  {
+    "action": "EVIDENCE_RECORD",
+    "evidence_id": "EV-c9ac1cf4-94ba-4f54-9c28-54a933f4fa6c",
+    "target_identity": "FZ-bf163931-8e9a-546b-b484-6aadf1a998cd",
+    "evidence_type": "legacy_locator",
+    "content": {
+      "path": "Cemetery/Legacy_Architectures/Freeze_Pre_1_0/01_Foundation_Root/F0-002_Foundation_Method_Constitution.md"
+    },
+    "timestamp": "2026-07-11T09:05:50.457546+00:00"
+  },
+  {
+    "action": "SEMANTIC_ATTRIBUTION",
+    "assessment_id": "AS-966e6c02-2083-4585-a13a-046438c0be2c",
+    "target_identity": "FZ-bf163931-8e9a-546b-b484-6aadf1a998cd",
+    "epistemic_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "operational_facet": "UNKNOWN_INSUFFICIENT_EVIDENCE",
+    "recovery_basis": "R-001",
+    "evidence_ids": [
+      "EV-c9ac1cf4-94ba-4f54-9c28-54a933f4fa6c"
+    ],
+    "rejected_candidates": {},
+    "classifier": {
+      "version": "v1.0",
+      "ontology_document": "docs/ontology/domain/KNOWLEDGE_ONTOLOGY.json",
+      "ontology_hash": "b1a19811cb0ea134955948851d2dc328449a68be60c292d01241072126ea9922",
+      "ontology_version": "v1.0",
+      "confidence": 0.0,
+      "confidence_method": "heuristic_legacy_locator",
+      "confidence_scale": "0.0-1.0",
+      "operator": "Automatic",
+      "timestamp": "2026-07-11T09:05:50.457546+00:00"
+    }
+  }
+]

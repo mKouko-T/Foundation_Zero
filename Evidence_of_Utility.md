@@ -1,3 +1,13 @@
+---
+Authority: Engineering Doctrine
+Lifecycle State: Permanent
+Last Exercised: Never
+Reason Exercised: N/A
+
+Owner: Core Maintainers
+Exit Condition: Replaced by stronger abstraction.
+---
+
 # EVIDENCE OF UTILITY
 
 If this document stops growing, the Foundation should begin deleting itself. It exists to track what became possible *because* the Foundation exists. Evidence must always be tied to observed reality.

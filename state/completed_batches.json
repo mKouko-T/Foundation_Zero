@@ -1,0 +1,8 @@
+{
+  "_metadata": {
+    "writer": "Execution runtime",
+    "reader": "Recovery playbooks",
+    "retention": "Keep latest 1000 batches. Archive annually."
+  },
+  "batches": []
+}

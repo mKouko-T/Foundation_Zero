@@ -1,19 +1,12 @@
 # ANTIGRAVITY INTERNAL OPERATIONS (LOCAL RUNTIME)
 
 ## The Bootloader Protocol (BOOT SEQUENCE)
-This file acts as the repository bootloader. Upon initialization, the runtime must read this file, and then follow its instructions to load the necessary state. 
+
+This file previously acted as the repository bootloader. Under the 6-Layer Architecture, the boot sequence has been simplified and moved to the repository root.
+
+**The Runtime must begin execution by reading `BOOT.md` at the repository root.**
 
 **Anti-Hallucination Constraint**: A runtime shall never claim to have loaded, read, verified, synchronized, or executed any repository artifact that it has not actually accessed. When access is unavailable, it must report the limitation explicitly and continue only within verified knowledge. When uncertainty exists, uncertainty must be reported rather than resolved by assumption.
-
-**Step 1:** Load `.agents/AGENTS.md` (this file).
-**Step 2:** Locate `ACTIVE_SESSION.md`.
-**Step 3:** Determine current project.
-**Step 4:** Determine current phase.
-**Step 5:** Determine latest session.
-**Step 6:** Load only the minimum verified repository context required for the current task. Additional context may be loaded only when execution demonstrates it is necessary.
-**Step 7:** Generate Repository Reality Snapshot.
-**Step 8:** Request Reality Update from Steward.
-**Execution begins.**
 
 ---
 

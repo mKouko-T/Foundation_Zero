@@ -12,5 +12,5 @@ def test_invariant_001_schemas_have_versions():
 
 def test_invariant_002_project_state_exists():
     repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    state_path = os.path.join(repo_root, "docs", "PROJECT_STATE.md")
-    assert os.path.isfile(state_path), "PROJECT_STATE.md must exist in docs/"
+    state_path = os.path.join(repo_root, "CURRENT_STATE.md")
+    assert os.path.isfile(state_path), "CURRENT_STATE.md must exist in root"

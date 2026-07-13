@@ -1,0 +1,77 @@
+[
+  {
+    "event_type": "ObservationAppended",
+    "event_id": "EV-0004ff0a-4504-491c-9f54-651fa08f38b5",
+    "sequence_number": 1,
+    "parent_event_ids": [],
+    "time": {
+      "observed_time": "2026-07-11T09:16:07Z",
+      "recorded_time": "2026-07-11T09:16:07Z",
+      "effective_time": "2026-07-11T09:16:07Z"
+    },
+    "payload": {
+      "observation_id": "OB-0004ff0a-4504-491c-9f54-651fa08f38b5",
+      "source_identity": "FZ-CHUNK-S001-C001",
+      "span_start": 342,
+      "span_end": 415,
+      "observed_statement": "Can ChatGPT + Antigravity replace Power BI today? For many tasks: yes.",
+      "observation_type": "QuotedSpan"
+    }
+  },
+  {
+    "event_type": "AssessmentAppended",
+    "event_id": "EV-e962ec5c-898a-4f1c-8aeb-830f4cf1ad94",
+    "sequence_number": 2,
+    "parent_event_ids": ["EV-0004ff0a-4504-491c-9f54-651fa08f38b5"],
+    "time": {
+      "observed_time": null,
+      "recorded_time": "2026-07-11T09:16:07Z",
+      "effective_time": "2026-07-11T09:16:07Z"
+    },
+    "payload": {
+      "assessment_id": "AS-e962ec5c-898a-4f1c-8aeb-830f4cf1ad94",
+      "target_observation_id": "OB-0004ff0a-4504-491c-9f54-651fa08f38b5",
+      "epistemic_facet": "Decision",
+      "operational_facet": "UNKNOWN_OUTSIDE_ONTOLOGY",
+      "ontology_confidence": 0.88,
+      "rejected_candidates": {
+        "Hypothesis": 0.12,
+        "First_Principle": 0.0
+      }
+    }
+  },
+  {
+    "event_type": "CandidateConceptProposed",
+    "event_id": "EV-557da74a-5615-4082-bb28-53fa8277235c",
+    "sequence_number": 3,
+    "parent_event_ids": ["EV-e962ec5c-898a-4f1c-8aeb-830f4cf1ad94"],
+    "time": {
+      "observed_time": null,
+      "recorded_time": "2026-07-11T09:16:07Z",
+      "effective_time": "2026-07-11T09:16:07Z"
+    },
+    "payload": {
+      "candidate_identity": "FZ-557da74a-5615-4082-bb28-53fa8277235c",
+      "canonical_name": "AI Autonomy in Data Engineering",
+      "supporting_assessments": [
+        "AS-e962ec5c-898a-4f1c-8aeb-830f4cf1ad94"
+      ],
+      "recovery_confidence": 0.95
+    }
+  },
+  {
+    "event_type": "CanonicalConceptAccepted",
+    "event_id": "EV-canonical-557da74a",
+    "sequence_number": 4,
+    "parent_event_ids": ["EV-557da74a-5615-4082-bb28-53fa8277235c"],
+    "time": {
+      "observed_time": null,
+      "recorded_time": "2026-07-11T09:16:08Z",
+      "effective_time": "2026-07-11T09:16:08Z"
+    },
+    "payload": {
+      "concept_identity": "FZ-557da74a-5615-4082-bb28-53fa8277235c",
+      "canonical_name": "AI Autonomy in Data Engineering"
+    }
+  }
+]

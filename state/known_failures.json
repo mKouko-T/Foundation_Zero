@@ -1,0 +1,8 @@
+{
+  "_metadata": {
+    "writer": "Execution runtime",
+    "reader": "Human Stewards, Evaluation playbooks",
+    "retention": "Keep until explicitly resolved or deprecated. Archive upon resolution."
+  },
+  "failures": []
+}

@@ -1,1 +1,0 @@
-The Foundation Method exists to help us see reality more clearly, judge more faithfully, and serve more wisely. If the Method ever becomes more important than those ends, the Method itself has failed.

@@ -1,0 +1,8 @@
+{
+  "_metadata": {
+    "writer": "Execution runtime",
+    "reader": "Quality playbooks",
+    "retention": "Keep latest 90 days. Archive monthly."
+  },
+  "metrics": []
+}

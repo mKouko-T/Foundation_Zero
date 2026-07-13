@@ -1,0 +1,15 @@
+{
+  "_metadata": {
+    "writer": "CI/CD Projection Tool (NEVER MANUAL)",
+    "reader": "Steward / Reviewer",
+    "retention": "Permanent (Appended)"
+  },
+  "kpi": "Decision Friction",
+  "metrics": {
+    "documents_consulted_avg": 0,
+    "files_changed_avg": 0,
+    "approvals_required_avg": 0,
+    "time_to_understand_hours": 0
+  },
+  "status": "Targeting reduction in all friction metrics over time."
+}
