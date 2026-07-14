@@ -3,11 +3,21 @@
 This document defines the mathematical and deterministic pipeline required to compile a Foundation Zero repository into an executable Knowledge Operating System (`BOOT_PACKAGE.md` and `BOOT_MANIFEST.json`). 
 Any implementation across any programming language MUST adhere strictly to this specification to be certified.
 
-## 1. Compilation Ordering
-Compilers MUST NOT rely on filesystem enumeration (e.g., `glob`) to discover dependencies. The ordering of inputs MUST be explicit, deterministic, and sequenced exactly as defined in `COMPILER_ORDER.json`.
-The specification explicitly separates the human-readable explanation (`COMPILER_SPEC.md`) from the machine-readable sequence (`COMPILER_ORDER.json`). Implementations MUST dynamically fetch and consume `COMPILER_ORDER.json` to derive the compilation graph.
+## 1. Declarative Compilation Graph (COMPILER_PIPELINE.json)
+Compilers MUST NOT rely on filesystem enumeration (e.g., `glob`) to discover dependencies. The ordering of inputs MUST be explicit, deterministic, and defined as a declarative graph in `COMPILER_PIPELINE.json`.
+The specification explicitly separates the human-readable explanation (`COMPILER_SPEC.md`) from the machine-readable sequence (`COMPILER_PIPELINE.json`).
+- `COMPILER_PIPELINE.json` defines **Compilation dependencies**, NOT runtime execution order.
+- The compiler **MUST** validate that the declared graph is acyclic.
+- The compiler **MAY** execute any valid topological ordering of the stages.
+- Implementations can negotiate features via the `capabilities` array (e.g., `["topological_pipeline", "canonical_ir", "deterministic_manifest"]`).
 
 Missing files MUST result in an immediate fatal compilation error, unless explicitly marked as optional.
+
+## 1.1 Three-Layer Compiler Architecture
+The compiler MUST be divided into three distinct logical layers:
+1. **Parser Layer**: Reads raw source artifacts and parses them into the Canonical IR.
+2. **Validation Layer**: Reads ONLY the Canonical IR (never raw files), generating cryptographic hashes and resolving dependencies.
+3. **Emission Layer**: Consumes ONLY the Verified Canonical IR to emit the `BOOT_MANIFEST.json` and `BOOT_PACKAGE.md`.
 
 ## 2. Canonicalization Engine
 To guarantee cross-platform bit-for-bit determinism, all input sources (local and remote) MUST be passed through the following canonicalization pipeline before any parsing or hashing occurs:

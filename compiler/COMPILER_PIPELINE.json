@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "spec_version": "1.0",
+  "pipeline_id": "foundation_zero_boot",
+  "capabilities": [
+    "topological_pipeline",
+    "canonical_ir",
+    "deterministic_manifest"
+  ],
+  "stages": [
+    {
+      "id": "boot_protocol",
+      "artifact": "CRBP.md",
+      "required": true,
+      "depends_on": []
+    },
+    {
+      "id": "boot_context",
+      "artifact": "Foundation_Zero/BOOT_CONTEXT.md (remote)",
+      "required": true,
+      "depends_on": []
+    },
+    {
+      "id": "runtime_contract",
+      "artifact": "docs/Runtime_Contract.md",
+      "required": true,
+      "depends_on": ["boot_protocol", "boot_context"]
+    },
+    {
+      "id": "bootstrap",
+      "artifact": "BOOTSTRAP.md",
+      "required": true,
+      "depends_on": ["runtime_contract"]
+    },
+    {
+      "id": "canonical_model",
+      "artifact": "docs/Canonical_Model.md",
+      "required": true,
+      "depends_on": ["runtime_contract"]
+    },
+    {
+      "id": "genesis_methodology",
+      "artifact": "docs/Genesis_Methodology.md",
+      "required": true,
+      "depends_on": ["runtime_contract"]
+    },
+    {
+      "id": "task_state",
+      "artifact": "task.md",
+      "required": true,
+      "depends_on": ["bootstrap", "canonical_model", "genesis_methodology"]
+    }
+  ]
+}
