@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Foundation Zero Boot Manifest",
+  "type": "object",
+  "properties": {
+    "schema": {
+      "type": "string",
+      "const": "v1"
+    },
+    "compiler": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "version": { "type": "string" },
+        "remote_commit_sha": { "type": "string" },
+        "hash_sha256": { "type": "string" },
+        "source_repository": { "type": "string" },
+        "guarantees": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["name", "version", "remote_commit_sha", "hash_sha256", "source_repository", "guarantees"]
+    },
+    "repository": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "branch": { "type": "string" },
+        "commit_sha": { "type": "string" }
+      },
+      "required": ["name", "branch", "commit_sha"]
+    },
+    "dependencies": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "certification": {
+      "type": "object",
+      "properties": {
+        "compiler_identity": { "type": "string" },
+        "repository_commit": { "type": "string" },
+        "manifest_hash": { "type": "string" },
+        "boot_id": { "type": "string" },
+        "compiler_signature": { "type": "string" }
+      },
+      "required": ["compiler_identity", "repository_commit", "manifest_hash", "boot_id", "compiler_signature"]
+    }
+  },
+  "required": ["schema", "compiler", "repository", "dependencies", "provenance", "certification"]
+}
