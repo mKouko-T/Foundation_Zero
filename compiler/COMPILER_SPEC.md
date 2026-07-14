@@ -4,14 +4,8 @@ This document defines the mathematical and deterministic pipeline required to co
 Any implementation across any programming language MUST adhere strictly to this specification to be certified.
 
 ## 1. Compilation Ordering
-Compilers MUST NOT rely on filesystem enumeration (e.g., `glob`) to discover dependencies. The ordering of inputs MUST be explicit, deterministic, and sequenced as follows:
-1. `CRBP.md`
-2. `Foundation_Zero/BOOT_CONTEXT.md (remote)`
-3. `docs/Runtime_Contract.md`
-4. `BOOTSTRAP.md`
-5. `docs/Canonical_Model.md`
-6. `docs/Genesis_Methodology.md`
-7. `task.md`
+Compilers MUST NOT rely on filesystem enumeration (e.g., `glob`) to discover dependencies. The ordering of inputs MUST be explicit, deterministic, and sequenced exactly as defined in `COMPILER_ORDER.json`.
+The specification explicitly separates the human-readable explanation (`COMPILER_SPEC.md`) from the machine-readable sequence (`COMPILER_ORDER.json`). Implementations MUST dynamically fetch and consume `COMPILER_ORDER.json` to derive the compilation graph.
 
 Missing files MUST result in an immediate fatal compilation error, unless explicitly marked as optional.
 
