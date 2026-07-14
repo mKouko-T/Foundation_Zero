@@ -31,7 +31,13 @@ The governance architecture defined in this Constitution is subject to the same 
 
 **Rule of Evidence:** Any proposed change to the governance structure or this Constitution SHALL be accompanied by documented justification demonstrating a systemic deficiency in the current governance model. Changes must follow the same strict discipline as modifying the compiler specification.
 
-## 3. Normative vs. Informative Boundaries
+## 3. The Burden of Proof
+
+The proposer of a normative change bears the absolute burden of producing reproducible evidence that the existing specification cannot reliably produce consistent observable behavior. 
+
+In any dispute over ambiguity or specification correctness, the existing specification is presumed correct until evidence explicitly falsifies it.
+
+## 4. Normative vs. Informative Boundaries
 
 - **Normative Documents** define observable constraints, behaviors, schemas, and evidentiary requirements.
 - **Informative Documents** provide rationale, examples, philosophy, and historical context.

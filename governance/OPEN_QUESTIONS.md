@@ -78,7 +78,7 @@ This registry tracks discovered ambiguities, unhandled edge cases, and unknowns 
 - **Raised by:** Independent Reviewer
 - **Date:** 2026-07-14
 - **Related Specification:** `FOUNDATION_CONSTITUTION.md`
-- **Current Disposition:** Specification Gap (Pending Evidence)
+- **Current Disposition:** Deferred
 - **Required Evidence:** Evidence of two normative specifications contradicting each other, resulting in deadlock under the current precedence hierarchy.
 
 ### Q-008: Specification Immutable Identity
@@ -112,3 +112,27 @@ This registry tracks discovered ambiguities, unhandled edge cases, and unknowns 
 - **Related Specification:** `FOUNDATION_CONSTITUTION.md`
 - **Current Disposition:** Accepted Unknown
 - **Required Evidence:** Evidence of the standard suffering instability due to attempts to specify domains outside observable behavior (e.g., human cognition, business processes).
+
+### Q-012: Evidence Admissibility Criteria
+- **ID:** Q-012
+- **Raised by:** Independent Reviewer
+- **Date:** 2026-07-14
+- **Related Specification:** `EVIDENCE_SPEC.md`
+- **Current Disposition:** Deferred
+- **Required Evidence:** Evidence of audit conflicts caused by fundamentally subjective or unverified evidence claims (e.g., simulations, AI-generated output vs independent human implementations).
+
+### Q-013: Findings and Normative Proposals Pipeline
+- **ID:** Q-013
+- **Raised by:** Independent Reviewer
+- **Date:** 2026-07-14
+- **Related Specification:** `FOUNDATION_CONSTITUTION.md`
+- **Current Disposition:** Deferred
+- **Required Evidence:** Evidence of governance slowdown due to reviewers having to process raw Evidence Reports directly, rather than distilled "Findings" that lead to "Normative Proposals".
+
+### Q-014: Governance Scalability & Conflicting Evidence
+- **ID:** Q-014
+- **Raised by:** Independent Reviewer
+- **Date:** 2026-07-14
+- **Related Specification:** `FOUNDATION_CONSTITUTION.md`
+- **Current Disposition:** Deferred
+- **Required Evidence:** Evidence of the standard's evolution stalling due to an inability to resolve conflicting but admissible evidence reports (R-xxx vs R-yyy).
