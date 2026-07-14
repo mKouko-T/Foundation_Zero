@@ -1,0 +1,84 @@
+{
+  "documents": [
+    {
+      "id": "DOC-GOV-001",
+      "path": "governance/FOUNDATION_CONSTITUTION.md",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "released",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-GOV-002",
+      "path": "governance/DOCUMENT_REGISTRY.json",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "released",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-GOV-003",
+      "path": "governance/PHILOSOPHY_OF_STANDARDIZATION.md",
+      "classification": "informative",
+      "version": "1.0",
+      "status": "released",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-GOV-004",
+      "path": "governance/CONFORMANCE_POLICY.md",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "released",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-GOV-005",
+      "path": "governance/OPEN_QUESTIONS.md",
+      "classification": "informative",
+      "version": "1.0",
+      "status": "active",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-SPEC-001",
+      "path": "compiler/COMPILER_SPEC.md",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "frozen",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-SPEC-002",
+      "path": "compiler/IR_SPEC.md",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "frozen",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-SCHEMA-001",
+      "path": "compiler/MANIFEST_SCHEMA.json",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "frozen",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-SCHEMA-002",
+      "path": "compiler/COMPILER_PIPELINE.json",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "frozen",
+      "authority": "Foundation Zero"
+    },
+    {
+      "id": "DOC-AUDIT-000",
+      "path": "audit/protocols/P-000_Audit_Framework.md",
+      "classification": "normative",
+      "version": "1.0",
+      "status": "released",
+      "authority": "Foundation Zero"
+    }
+  ]
+}

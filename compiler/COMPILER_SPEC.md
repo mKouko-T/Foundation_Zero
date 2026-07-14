@@ -1,3 +1,15 @@
+---
+Document ID: DOC-SPEC-001
+Title: Foundation Zero Compiler Specification
+Status: Frozen
+Version: 1.0
+Classification: Normative
+Authority: Foundation Zero
+Supersedes: None
+Superseded By: None
+Depends On: None
+---
+
 # Foundation Zero Compiler Specification
 
 This document defines the mathematical and deterministic pipeline required to compile a Foundation Zero repository into an executable Knowledge Operating System (`BOOT_PACKAGE.md` and `BOOT_MANIFEST.json`). 

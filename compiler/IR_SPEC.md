@@ -1,4 +1,16 @@
-# Foundation Zero IR Specification
+---
+Document ID: DOC-SPEC-002
+Title: Foundation Zero IR Specification
+Status: Frozen
+Version: 1.0
+Classification: Normative
+Authority: Foundation Zero
+Supersedes: None
+Superseded By: None
+Depends On: DOC-SPEC-001
+---
+
+# Canonical IR Specification
 
 The Canonical Intermediate Representation (`CanonicalIR`) is the architectural bridge between parsing reality (files, remote APIs) and emitting the knowledge operating system. It defines the formal schema that all compilers MUST populate.
 
