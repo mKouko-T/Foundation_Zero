@@ -12,6 +12,11 @@ Depends On: P-000
 
 # P-XXX: [Audit Title]
 
+## Protocol Scope Statement
+- **Reducible Uncertainty:** [What specific uncertainty can this protocol reduce?]
+- **Irreducible Uncertainty:** [What uncertainty can this protocol *never* reduce?]
+- **Protocol Falsification:** [What evidence would falsify the usefulness of this protocol itself?]
+
 ## Objective
 [What specific element of the Foundation Zero specification is being tested for falsification or ambiguity?]
 

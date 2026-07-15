@@ -1,20 +1,34 @@
 # Active Session
 
-**Goal:** Review and finalize the implementation plan for `P-100_Finding_Evaluation.md`.
+**Goal:** Conclude P-002 execution and prepare the project state for future empirical exploration.
 
-**Context:** The user and agent previously completed P-001 and extracted Evidence Reports `R-001A` through `R-001H`. The user ordered the repository frozen to prevent subjective Findings. 
+**Context:** The evidentiary baseline for P-002 is secure. The project has reached an important governance milestone: improvements are now being driven by empirical results rather than design intuition. The philosophical definition of the project has sharpened: *Foundation Zero is a reproducible methodology for discovering, isolating, and experimentally reducing independent dimensions of specification uncertainty.*
 
-**Immediate Action:** The user will provide feedback on the proposed epistemic governance protocol (P-100). Do NOT execute specification changes. Wait for the user's instructions.
+**Immediate Action:**
+1. Wait for reality to dictate the necessity of `P-003`. 
+2. A valid candidate for `P-003` must answer the question: *"What observable disagreement could still occur even if P-001 and P-002 both succeed?"*
 
-### Pending Plan for P-100_Finding_Evaluation.md
-The pending plan to be reviewed by the user dictates the creation of `audit/protocols/P-100_Finding_Evaluation.md` which will specify:
-1. **Admissible Evidence:** What constitutes valid input (e.g., independent evidence reports).
-2. **Corroboration Requirements:** Minimum thresholds for multiple independent audits before a Candidate Finding can be elevated.
-3. **Confidence Mathematics:** Explicitly defining confidence as an emergent property based on Protocol Independence, Evidence Quality, Reproducibility, Audit Coverage, etc. (removing intuition from confidence).
-4. **Epistemic Classification:** Forcing separation of evidence strength (e.g., "missing definition" vs "possible inconsistency").
-5. **State Lifecycle:** When a Candidate Finding becomes a Finding, when it expires, and when new evidence reopens a closed Finding.
+## Operational Observations (Not Yet Promoted)
+*These discoveries have been logged from execution. They require a second independent failure/observation before being elevated to constitutional constraints (Two-Failure Rule).*
 
-**Constitutional Lexicon Update (Within P-100)**
-Explicitly codify the prohibition of anti-scientific language.
-- Prohibited: "The specification failed." / "The specification is broken."
-- Mandated: "The protocol produced reproducible observations inconsistent with the current hypothesis."
+**1. Reality Confirmation Loop (Post-Intervention Verification):** Every operation that claims to modify reality should verify reality after the modification. (Observe ➡ Modify ➡ Reload ➡ Compare ➡ Resolve discrepancies ➡ Report). 
+
+**2. The Five Truth Domains:** Rendered conversational artifacts can misinterpret the underlying repository state. The truth domains are: Reality ➡ Persistent State ➡ Runtime State ➡ Representation ➡ Interpretation. The recent duplication bug was a failure between Representation and Interpretation. Direct artifact inspection remains the authoritative verification mechanism.
+
+**3. The Universal Claim Principle:** Capability verification and Reality verification are manifestations of the same higher-order pattern: *Every claim should identify the observation that currently justifies it.*
+
+**4. Dependency Transparency:** Every statement has dependencies. Instead of saying "Repository is clean," the runtime should know it depends on specific hashes, audits, or Git states. This is deeper than verification; it is continuous dependency tracing.
+
+**5. Source Authority Principle:** When representations disagree (or when evidence conflicts), the authoritative source for that claim must be directly inspected. (e.g., File contents beat diff rendering; Git status beats memory; API response beats API documentation). Repository wins over conversational evidence.
+
+---
+
+### Leading Explanatory Hypothesis: The Claim Ontology
+*Status: Hypothesis. Must survive one complete Phase I execution cycle before promotion.*
+
+The five observations above appear to be manifestations of a single canonical data structure: the **Claim**. However, *Claim* is inside the reality loop (Reality ➡ Observation ➡ Claim ➡ Verification ➡ Evidence ➡ Belief ➡ Decision ➡ Intervention ➡ Reality), not above it. 
+
+If this ontology survives execution, a Claim will likely require: `[Claim ID, Purpose, Statement, Owner, Authority, Verification Method, Current Evidence, Evidence State, Freshness, Dependencies, Falsifier, Last Verified]`. 
+It will also likely form a Dependency Graph rather than a flat list.
+
+**Warning:** Do not delete existing governance (e.g., Rule 21) or workflows. Ontology describes *what is*, Governance constrains *behavior*, and Workflows describe *when*. They are orthogonal.

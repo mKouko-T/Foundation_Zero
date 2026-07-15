@@ -23,6 +23,7 @@ Protocols evaluate *observable behavior* only. The auditor chooses the implement
 ## 2. Structure of an Audit Protocol
 
 Every Audit Protocol (`P-xxx`) must follow the structure defined in `PROTOCOL_TEMPLATE.md`:
+- **Protocol Scope Statement:** Defines what uncertainty the protocol can/cannot reduce, and how the protocol itself is falsified.
 - **Objective:** What is being falsified?
 - **Threat Model:** The adversary attempting to bypass or exploit the standard.
 - **Required Evidence:** The deterministic proof needed to conclude the audit.
