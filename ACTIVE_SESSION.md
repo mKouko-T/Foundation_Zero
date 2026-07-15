@@ -36,3 +36,18 @@ It will also likely form a Dependency Graph rather than a flat list.
 **6. Compression does not imply fundamentality:** A simpler explanatory model (like the Claim Ontology) is only a hypothesis until it survives repeated attempts at falsification. A beautiful compression can still be false.
 
 **7. Governance Success Metric:** Successful governance reduces the frequency with which governance itself becomes the subject of work. If future sessions mostly discuss governance, the governance is failing. If they produce operational value, it is succeeding.
+
+---
+
+### Leading Explanatory Hypothesis 2: Executor Capability Contract & `EXECUTOR_PROFILE.md`
+*Status: Hypothesis. Must survive operational testing in Phase I.*
+
+An **Executor** (Human, ChatGPT, Antigravity, Claude, Script, API) is currently missing from the Foundation's ontology.
+Every executor should explicitly disclose its operating envelope before work begins (Identity, Persistence, Tool Surface, Authority Surface, Visibility Surface, Mutation Surface, Verification Surface, Trust Boundary).
+This could be formalized by generating a disposable `EXECUTOR_PROFILE.md` per runtime at boot.
+
+**The ChatGPT Operational Contract:**
+When collaborating with ChatGPT (or any LLM):
+Never assume the executor has: repository access, filesystem access, Git access, terminal access, previous chats, previous runtime memory, same tool availability, same connectors, or same permissions.
+**Instead: Require verification for each capability.**
+Never assume successful execution from intended execution. Treat repository access as a capability requiring independent verification.
