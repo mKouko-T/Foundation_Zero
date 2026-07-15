@@ -34,3 +34,5 @@ It will also likely form a Dependency Graph rather than a flat list.
 **Warning:** Do not delete existing governance (e.g., Rule 21) or workflows. Ontology describes *what is*, Governance constrains *behavior*, and Workflows describe *when*. They are orthogonal.
 
 **6. Compression does not imply fundamentality:** A simpler explanatory model (like the Claim Ontology) is only a hypothesis until it survives repeated attempts at falsification. A beautiful compression can still be false.
+
+**7. Governance Success Metric:** Successful governance reduces the frequency with which governance itself becomes the subject of work. If future sessions mostly discuss governance, the governance is failing. If they produce operational value, it is succeeding.
